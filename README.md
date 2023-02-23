@@ -1,4 +1,4 @@
-**Digital Science Center Publications**
+Digital Science Center Publications
 
 [[Reports and Papers](#id.gjdgxs)]
 
@@ -11,7 +11,7 @@ Students](#id.30j0zll)]
 [[Presentations](#id.3znysh7)]
 
 
-**Reports and Papers**
+## Reports and Papers
 
 1.  Gregor von Laszewski, Anthony Orlowski,
     Richard H. Otten, Reilly Markowitz, Sunny Gandh, Adam Chai,
@@ -25,9 +25,9 @@ Students](#id.30j0zll)]
     Geoffrey Fox, James P Crutchfield, Robert A Granat, "[[Nowcasting
     Earthquakes: Imaging the Earthquake Cycle in California with Machine
     Learning]](http://www.infomall.org/publications/NowcastingPaper.pdf)",
-    Earth and Space Science Open Archive,[ ][ 28
+    Earth and Space Science Open Archive,[ 28
     Mar 2021,] DOI
-    [[10.1002/essoar.10506614.1]](https://doi.org/10.1002/essoar.10506614.1),[ ]
+    [[10.1002/essoar.10506614.1]](https://doi.org/10.1002/essoar.10506614.1),
 3.  Vibhatha Abeykoon[ 
     ]Geoffrey Fox[ 
     ]Minje Kim[  ]Saliya
@@ -132,7 +132,7 @@ Students](#id.30j0zll)]
     Convolutional Neural
     Networks]](http://ijdat.org/index.php/ijdat/article/view/4)\"
     in International Journal of Data Mining Science. Vol 1, Issue 1,
-    pages 16-23, May 17 2021[ ]
+    pages 16-23, May 17 2021
 18. [18.]Vibhatha Abeykoon, Niranda Perera,
     Chathura Widanage, Supun Kamburugamuve, Thejaka Amila Kanewala,
     Hasara Maithree, Pulasthi Wickramasinghe, Ahmet Uyar, Geoffrey Fox,
@@ -381,7 +381,7 @@ Students](#id.30j0zll)]
     Generation Cyberinfrastructure for BDEC]](BDEC.pdf)", BDEC2
     [[Meeting]](https://www.exascale.org/bdec/meeting/sandiego)
     October 15-17, 2019, San Diego,
-    California,[ ]
+    California,
 56. Geoffrey Fox and Shantenu Jha,
     "[[Understanding ML driven HPC: Applications and
     Infrastructure]](http://www.infomall.org/publications/escience19-vision.rc3.pdf)",
@@ -756,7 +756,7 @@ Students](#id.30j0zll)]
      ]"[[High-Performance Massive Subgraph
      Counting using Pipelined Adaptive-Group
      Communication]](https://arxiv.org/abs/1804.09764)", Technical
-     Report, April 25 2018.[ ]
+     Report, April 25 2018.
 106. Mohanad Al-Ibadi, Jordan Sprick,
      Sravya Athinarapu, Victor Berger, Theresa Stumpf, John Paden, Carl
      Leuschen, Fernando Rodríguez, Mingze Xu, David Crandall, Geoffrey
@@ -850,7 +850,7 @@ Students](#id.30j0zll)]
      Technical Report October 31 2017 published in 9th INTERNATIONAL
      [[CONFERENCE]](http://www.icoac.mitindia.edu/index.html) ON
      ADVANCED COMPUTING December 14-16, 2017 Anna University, MIT
-     Campus, Chennai[ ]
+     Campus, Chennai
 119. Langshi Chen, Bo Peng, Zhao Zhao,
      Saliya Ekanayake, Anil Vullikanti, Madhav Marathe, Shaojuan Zhu,
      Emily Mccallum, Lisa Smith, Lei Jiang, Judy Qiu, \"[[A New
@@ -898,7 +898,7 @@ Students](#id.30j0zll)]
      Constraints for Hadron Amplitudes: Going High to Heal Low Energy
      Issues]](http://www.infomall.org/publications/1708.07779v1.pdf)\",
      25 August 2017,
-     [[arXiv:1708.07779]](https://arxiv.org/abs/1708.07779)[ ]
+     [[arXiv:1708.07779]](https://arxiv.org/abs/1708.07779)
 126. Geoffrey C. Fox, Vatche Ishakian,
      Vinod Muthusamy, Aleksander Slominski, \"[[Status of Serverless
      Computing and Function-as-a-Service(FaaS) in Industry and
@@ -1189,7 +1189,7 @@ Students](#id.30j0zll)]
      Clusters]](http://www.infomall.org/publications/ieee.bigdata.2016-v9.pdf)\",
      Technical Report August 8 2016,
      [[DOI]](http://doi.org/10.13140/RG.2.1.4560.1524) Published
-     in[ ]2016 IEEE International
+     in2016 IEEE International
      [[Conference]](http://cci.drexel.edu/bigdata/bigdata2016/) on
      Big Data, December 5 - December 8, 2016 • Washington DC, USA with
      this
@@ -1269,7 +1269,7 @@ Students](#id.30j0zll)]
      Cloud Engineering
      ([[IC2E2016]](http://conferences.computer.org/IC2E/2016/))
      Conference, April 4-8, 2016, Berlin,
-     Germany.[ ]
+     Germany.
 178. Sangyoon Oh, Mehmet Aktas, Marlon
      Pierce, Geoffrey Fox, \"[[Architecture for high-performance web
      service communications using an information
@@ -1401,7 +1401,7 @@ Students](#id.30j0zll)]
      on Curricula and Teaching Methods in Cloud Computing, Big Data, and
      Data Science as part of [[CloudCom
      2015]](http://2015.cloudcom.org/), Vancouver, Nov 30-Dec 3,
-     2015.[ ]
+     2015.
 195. [Maryam Rahnemoonfar, Geoffrey C.
      Fox, Masoud Yari, [[Automatic Bedrock and Ice Layer Boundaries
      Estimation in Radar Imagery Based on Level Set
@@ -1503,7 +1503,7 @@ Students](#id.30j0zll)]
      (Apache) Big Data Stack (ABDS) and HPC
      Technologies]](http://www.infomall.org/publications/KaleidoscopeTable4.docx)
      Kaleidoscope of (Apache) Big Data Stack (ABDS) and HPC Technologies
-     March 9 2015. See[ ][[ web
+     March 9 2015. See[[ web
      site]](http://hpc-abds.org/kaleidoscope/)
 211. Geoffrey Fox, Supun Kamburugamuve,
      Hengjing He [[Current and Planned IoT Cloud Research at Digital
@@ -1569,7 +1569,7 @@ Students](#id.30j0zll)]
      [[Building a Culturally Sensitive portal for Indigenous
      Nations]](http://www.infomall.org/publications/FGCS_CTS_2011_Special_Issue_V01.doc)
      Unpublished Technical report on e-humanity
-     project[ ]
+     project
 222. Sidd Maini, [[Final NEH
      Narrative]](http://www.infomall.org/publications/eHumanity%20Final%20Narrative%20-%20Sidd%20Maini.pdf),
      Unpublished Technical report on e-humanity project Dec 21 2012
@@ -1686,7 +1686,7 @@ Students](#id.30j0zll)]
      Data March 18 - 21, 2014 San Diego Supercomputer Center, San Diego,
      CA, USA
 240. Geoffrey C Fox, Judy Qiu, and
-     Shantenu Jha[ ][[ Integrating the Apache
+     Shantenu Jha [[ Integrating the Apache
      Big Data Stack with HPC for Big
      Data]](http://www.infomall.org/publications/AbstractAGUDec2014.pdf)
      in AGU Fall [[Meeting]](http://fallmeeting.agu.org/2014/),
@@ -1696,7 +1696,7 @@ Students](#id.30j0zll)]
 241. [Andrew J. Younge, John Paul
      Walters, Geoffrey C. Fox [[High Performance Molecular Dynamics in
      Cloud Infrastructure with SR-IOV and
-     GPUDirect[ ]]](http://www.infomall.org/publications/gpu_scale_sc14_poster.pptx)
+     GPUDirect ]](http://www.infomall.org/publications/gpu_scale_sc14_poster.pptx)
      Poster August 7 2014]
 242. Natiele Bohn, Oliver Lewis, Gregor
      von Laszewski, Fugang Wang [[Cloudmesh Resource
@@ -1860,7 +1860,7 @@ Students](#id.30j0zll)]
 265. [Mashar Cenk Gencal [[Summary of
      Robust Scalable Visualized Clustering in Vector and non Vector
      Semimetric
-     Spaces[ ]]](http://www.infomall.org/publications/Y790-final%20paper.docx)
+     Spaces ]](http://www.infomall.org/publications/Y790-final%20paper.docx)
      Independent Study Indiana University April 15 2014]
 266. Sun Zhanquan, Geoffrey Fox, Gu
      Weidong [[A Parallel Clustering Method Combined Information
@@ -1981,7 +1981,7 @@ Students](#id.30j0zll)]
      GENERATION HADRON SPECTROSCOPY EXPERIMENTS, June 20-23, 2012
 285. Judy Qiu, Geoffrey Fox [[Community
      MOOC\'s for Computing Technologies and
-     Applications[ ]]](http://www.infomall.org/publications/SC13MOOCBoFReport.pdf)
+     Applications ]](http://www.infomall.org/publications/SC13MOOCBoFReport.pdf)
      Report on [[SC13]](http://sc13.supercomputing.org/) Birds of a
      Feather November 20 2013
 286. Thilina Gunarathne, Thomas Wiggins,
@@ -2080,7 +2080,7 @@ Students](#id.30j0zll)]
 304. Bingjing Zhang and Judy Qiu [[High
      Performance Clustering of Social Images in a Map-Collective
      Programming
-     Model[ ]]](http://www.infomall.org/publications/socc-poster-summary_v3.pdf)
+     Model ]](http://www.infomall.org/publications/socc-poster-summary_v3.pdf)
      Poster at ACM [[Symposium]](http://www.socc2013.org/) on Cloud
      Computing 2013 Santa Clara CA October 1-3 2013
 305. Jerome E. Mitchell, David J.
@@ -2682,7 +2682,7 @@ Students](#id.30j0zll)]
      Technical report June 7 2012]
 396. Ryan Hartman and Geoffrey Fox
      [[DRAFT Sensor Cloud Project Final
-     Report[ ]]](http://www.infomall.org/publications/Sensor%20Cloud%20Final%20Report.pdf)
+     Report ]](http://www.infomall.org/publications/Sensor%20Cloud%20Final%20Report.pdf)
      AFRL SBIR Phase 3 Project Indiana University April 23 2012 and a
      [[Summary of
      Clouds]](http://www.infomall.org/publications/Ballclouds.pdf)
@@ -2885,7 +2885,7 @@ Students](#id.30j0zll)]
      Technical Report April 8 2012 submitted for publication
 422. Javier Diaz, Gregor von Laszewski,
      Fugang Wang, Geoffrey C. Fox [[Towards Cloud Deployments using
-     FutureGrid[ ]]](http://www.infomall.org/publications/FGCloudDeployments.pdf)
+     FutureGrid ]](http://www.infomall.org/publications/FGCloudDeployments.pdf)
      Technical Report April 2012
 423. Javier Diaz, Gregor von Laszewski,
      Fugang Wang, Geoffrey C. Fox [[Abstract Image Management and
@@ -2949,7 +2949,7 @@ Students](#id.30j0zll)]
      Technical Report February 28 2012
 430. Gregor von Laszewski [[MapReduce for
      Scientist using
-     FutureGrid[ ]]](http://www.infomall.org/publications/CCGrid%20tutorial.pdf)
+     FutureGrid ]](http://www.infomall.org/publications/CCGrid%20tutorial.pdf)
      Technical Report February 28 2012
 431. Larissa Stanberry, Roger Higdon,
      Winston Haynes, Natali Kolker, William Broomall, Saliya Ekanayake,
@@ -2969,7 +2969,7 @@ Students](#id.30j0zll)]
 434. Geoffrey C. Fox, Supun
      Kamburugamuve, Ryan Hartman [[Architecture and Measured
      Characteristics of a Cloud Based Internet of Things
-     API[ ]]](http://www.infomall.org/publications/cts_2012_paper-2.pdf)
+     API ]](http://www.infomall.org/publications/cts_2012_paper-2.pdf)
      Workshop 13-IoT Internet of Things, Machine to Machine and Smart
      Services Applications ([[IoT
      2012]](http://cts2012.cisedu.info/2-conference/workshops/workshop-13-snm))
@@ -3399,7 +3399,7 @@ Students](#id.30j0zll)]
      July 18 2011
 491. Geoffrey Fox, Gregor von Laszewski,
      Renato Figueiredo [[FutureGrid
-     Tutorial[ ]]](http://www.infomall.org/publications/OGF32-FG-Tutorialabstract.txt)
+     Tutorial ]](http://www.infomall.org/publications/OGF32-FG-Tutorialabstract.txt)
      presented at [[OGF32]](http://www.gridforum.org/OGF32/)
      Marriott Salt Lake City July 17 2011
 492. Hui Li, Yang Ruan, Yuduo Zhou, Judy
@@ -3997,7 +3997,7 @@ Students](#id.30j0zll)]
 564. Tyler Pace, Shaowen Bardzell,
      Geoffrey Fox [[Human-Centered e-Science: A Group-Theoretic
      Perspective on Cyberinfrastructure
-     Design[ ]]](http://www.infomall.org/publications/cts2010_v9.pdf)
+     Design ]](http://www.infomall.org/publications/cts2010_v9.pdf)
      Proceedings of The 2010 International Symposium on Collaborative
      Technologies and Systems ([[CTS
      2010]](http://cisedu.us/cis/cts/10/main/callForPapers.jsp))
@@ -4127,7 +4127,7 @@ Students](#id.30j0zll)]
      Computing (Grid 2009) October 13, 2009 Banff, Canada.
 582. Tobias Kurze, Lizhe Wang, Gregor von
      Laszewski, Jie Tao, Marcel Kunze, and Fugang Wang, Jaliya
-     Ekanayake.[ ][[ Cyberaide Virtual
+     Ekanayake. [[ Cyberaide Virtual
      Applicance: On-demand Deploying Middleware for
      Cyberinfrastructure]](http://www.infomall.org/publications/CloudComppaper.pdf).
      First International [[Conference]](http://www.cloudcomp.eu/)
@@ -4626,7 +4626,7 @@ Students](#id.30j0zll)]
 652. Linda B. Hayden, Geoffrey Fox,
      Anthony Adade [[Implementing Cyberinfrastructure in Support of
      Greenland and Antarctic SAR Data
-     Sets[ ]]](http://www.infomall.org/publications/AARSE%20Abstract%20SUBMITTED.txt)
+     Sets ]](http://www.infomall.org/publications/AARSE%20Abstract%20SUBMITTED.txt)
      Abstract
      ([[Presentation]](http://www.infomall.org/publications/presentations/aarse2008.pdf))
      for AARSE [[Conference]](http://www.aarse2008.org/). 7th
@@ -4816,7 +4816,7 @@ Students](#id.30j0zll)]
      Technical Report December 31 2007
 679. [Geoffrey Fox and Marlon Pierce
      [[Grids meet Too much Computing, Too much Data and never Too much
-     Simplicity[ ]]](http://www.infomall.org/publications/TooMuchComputingandData.pdf)
+     Simplicity ]](http://www.infomall.org/publications/TooMuchComputingandData.pdf)
      White Paper December 27 2007]
 680. Byounghoon Lee, Sunghwa Lim,
      Jai-Hoon Kim , and Geoffrey Fox [[Lease Based Consistency Scheme in
@@ -4970,7 +4970,7 @@ Students](#id.30j0zll)]
 702. Donald F. (Rick) McMullen, Marlon
      Pierce, Carol Deng, Kia Huffman [[Real-time Web 2.0: Evolution of
      Middleware for Grid-based Instruments and
-     Sensors[ ]]](http://www.ogf.org/gf/event_schedule/index.php?id=1022)
+     Sensors ]](http://www.ogf.org/gf/event_schedule/index.php?id=1022)
      Web 2.0 Workshop at The[[ 21st Open Grid
      Forum]](http://www.ogf.org/OGF21/events_ogf21.php) - OGF21
      Grand Hyatt Seattle Seattle, Washington October 15-19, 2007
@@ -4988,7 +4988,7 @@ Students](#id.30j0zll)]
      Rajarshi Guha, Marlon E. Pierce, Xiaohong Qiu, David J. Wild , H.
      Yuan, Neil M Devadasan, George Chrysanthakopoulos, Henrik Frystyk
      Nielsen [[Parallel Clustering in a Cheminformatics
-     Grid[ ]]](http://www.infomall.org/publications/RENCIMicrosofteScience.doc)
+     Grid ]](http://www.infomall.org/publications/RENCIMicrosofteScience.doc)
      The 2007 Microsoft eScience
      [[Workshop]](https://www.mses07.net/main.aspx) at RENCI (The
      Friday Center for Continuing Education UNC - Chapel Hill 100 Friday
@@ -5032,7 +5032,7 @@ Students](#id.30j0zll)]
 711. Geoffrey C. Fox and Hai Zhuge
      [[Editorial for Special Issue of the 2nd International Conference
      on Semantics, Knowledge and
-     Grid[ ]]](http://www.infomall.org/publications/Special%20Issue%20of%20the%202nd%20International%20Conference%20on%20Semantics.doc)
+     Grid ]](http://www.infomall.org/publications/Special%20Issue%20of%20the%202nd%20International%20Conference%20on%20Semantics.doc)
      Concurrency and Computation: Practice and Experience Special Issue
      for 2nd International Conference on Semantics, Knowledge and Grid
      [[SKG2006]](http://www.culturegrid.net/SKG2006/) Guilin China
@@ -5188,7 +5188,7 @@ Students](#id.30j0zll)]
      Baxter, Geoffrey Fox, Al Kuslikis, and Alex Ramirez [[Advances in
      the MSI Community and the MSI CyberIn-frastructure Empowerment
      Coalition
-     (MSI-CIEC)[ ]]](http://www.infomall.org/publications/MSI-CIEICTERAGRId4-1-071%20draft%20April%206%20V3raa.pdf)
+     (MSI-CIEC) ]](http://www.infomall.org/publications/MSI-CIEICTERAGRId4-1-071%20draft%20April%206%20V3raa.pdf)
      Proceedings of TeraGrid 2007
      [[Conference]](http://www.union.wisc.edu/teragrid07/) Madison
      Wisconsin June 4-8 2007
@@ -5228,14 +5228,14 @@ Students](#id.30j0zll)]
 737. Jack Dongarra, Dennis Gannon,
      Geoffrey Fox, and Ken Kennedy [[The Impact of Multicore on
      Computational Science
-     Software[ ]]](http://www.infomall.org/publications/paper-submitted.pdf)
+     Software ]](http://www.infomall.org/publications/paper-submitted.pdf)
      Technical Report February 5 2007; [[CTWatch
      ]](http://www.ctwatch.org/quarterly/articles/2007/02/the-impact-of-multicore-on-computational-science-software/)Quarterly
      Volume 3, Number 1 February 2007
 738. [Xiaohong Qiu, Geoffrey Fox, Alex Ho
      [[Analysis of Concurrency and Coordination Runtime CCR and DSS for
      Parallel and Distributed
-     Computing[ ]]](http://www.infomall.org/publications/CCRDSSanalysis_jan21-07.pdf)
+     Computing ]](http://www.infomall.org/publications/CCRDSSanalysis_jan21-07.pdf)
      Technical Report January 21 2007]
 739. Galip Aydin, Zhigang Qi, Marlon E.
      Pierce, Geoffrey C. Fox, Yehuda Bock [[Architecture, Performance,
@@ -5331,7 +5331,7 @@ Students](#id.30j0zll)]
      Guha, Jungkee Kim, Marlon Pierce, Geoffrey C. Fox and David J. Wild
      [[Smart Mining of Drug Discovery Information: 1. A web service and
      workflow
-     infrastructure[ ]]](http://www.infomall.org/publications/Smart%20Mining%201.pdf)
+     infrastructure ]](http://www.infomall.org/publications/Smart%20Mining%201.pdf)
      Submitted to Journal of Chemical Information and Modeling October
      2006
 752. Harshawardhan Gadgil, Geoffrey Fox,
@@ -5614,7 +5614,7 @@ Students](#id.30j0zll)]
 787. Galip Aydin, Geoffrey C. Fox,
      Harshawardhan Gadgil and Marlon E. Pierce [[Streaming Data Services
      to Support Archival and Real-Time Geographical Information System
-     Grids[ ]]](http://www.infomall.org/publications/galip-clade.pdf)
+     Grids ]](http://www.infomall.org/publications/galip-clade.pdf)
      Technical Report February 10 2006
 788. Harshawardhan Gadgil, Geoffrey Fox,
      Shrideep Pallickara, Marlon Pierce [[Managing Grid Messaging
@@ -5629,7 +5629,7 @@ Students](#id.30j0zll)]
      Evan F. Bollig, Cesar De Silva, Benny Sowell, and David A. Yuen
      [[VLab: Collaborative Grid Services and Portals to Support
      Computational Material
-     Science[ ]]](http://www.infomall.org/publications/VLAB-GCE2005-Final-MEP-a.doc)
+     Science ]](http://www.infomall.org/publications/VLAB-GCE2005-Final-MEP-a.doc)
      Dec 30, 2005 Special Issue on Grid Portals based on SC05 [[GCE\'05
      Workshop]](http://pipeline0.acel.sdsu.edu/mtgs/gce05),
      Concurrency and Computation: Practice and Experience Volume 19,
@@ -5847,7 +5847,7 @@ Students](#id.30j0zll)]
 819. Sang Boem Lim, Bryan Carpenter,
      Geoffrey Fox, and Han-Ku Lee, [[A Low\--Level Communication Library
      for Java
-     HPC[ ]]](http://www.infomall.org/publications/adlib_41.pdf)
+     HPC ]](http://www.infomall.org/publications/adlib_41.pdf)
      Proceedings of 6th International Conference on Algorithms and
      Architectures for Parallel Processing. [[ICA3PP
      2005]](http://www3.it.deakin.edu.au/ica3pp2005/index.php?id=Home)
@@ -5855,9 +5855,9 @@ Students](#id.30j0zll)]
      in Computer Science, Volume 3719, Pages 429 - 434
      [[DOI]](http://dx.doi.org/10.1007/11564621_50)
 820. Jungkee Kim and Geoffrey
-     Fox.[ ][[ Scalable Hybrid Search on
+     Fox. [[ Scalable Hybrid Search on
      Distributed
-     Databases.[ ]]](http://www.infomall.org/publications/p2pDDBS.pdf)
+     Databases. ]](http://www.infomall.org/publications/p2pDDBS.pdf)
      In[  ]Proceedings of 3rd International
      Workshop on Autonomic Distributed Data and Storage Systems
      Management
@@ -5874,7 +5874,7 @@ Students](#id.30j0zll)]
 822. Taylor, S.J.E.; Fox, G.; Fujimoto,
      R.; Pullen, J.M.; Roberts, D.J.; Theodoropoulos, G.K. [[Revisiting
      Distributed Simulation and the Grid: A
-     Panel[ ]]](http://www.infomall.org/publications/dsrt05panel.txt)
+     Panel ]](http://www.infomall.org/publications/dsrt05panel.txt)
      Distributed Simulation and Real-Time Applications, 2005. [[DS-RT
      2005]](http://pdcc.ntu.edu.sg/~dsrt2005/) Proceedings. Ninth
      IEEE International Symposium Page161.[[
@@ -6028,11 +6028,11 @@ Students](#id.30j0zll)]
      Technical Report April 2005
 843. Geoffrey Fox [[Global Multimedia
      Collaboration System
-     Tutorial[ ]]](http://www.infomall.org/publications/cts05tutorial.txt)
+     Tutorial ]](http://www.infomall.org/publications/cts05tutorial.txt)
      Proceedings of the IEEE International
      [[Symposium]](http://www.engr.udayton.edu/faculty/wsmari/cts05/)
      on Collaborative Technologies and Systems CTS05 May 2005, St. Louis
-     Missouri, USA.PAGES 11-13[ ][[
+     Missouri, USA.PAGES 11-13 [[
      DOI]](http://doi.ieeecomputersociety.org/10.1109/ISCST.2005.1553280)
 844. Ahmet Uyar and Geoffrey Fox.
      [[Investigating the Performance of Audio/Video Service Architecture
@@ -6041,7 +6041,7 @@ Students](#id.30j0zll)]
      Proceedings of the IEEE International
      [[Symposium]](http://www.engr.udayton.edu/faculty/wsmari/cts05/)
      on Collaborative Technologies and Systems CTS05 May 2005, St. Louis
-     Missouri, USA.PAGES 120-127[ ][[
+     Missouri, USA.PAGES 120-127 [[
      DOI]](http://doi.ieeecomputersociety.org/10.1109/ISCST.2005.1553303)
 845. Ahmet Uyar and Geoffrey
      Fox.[](http://www.infomall.org/publications/BrokerNetwork-cts05-final.PDF)
@@ -6110,7 +6110,7 @@ Students](#id.30j0zll)]
      [[DOI]](http://doi.ieeecomputersociety.org/10.1109/CCGRID.2005.1558633)
 853. Harshawardhan Gadgil, Geoffrey Fox,
      Shrideep Pallickara [[HPSearch for Managing Distributed
-     Services[ ]]](http://www.infomall.org/publications/scriptingMGMT-WIP-ccgrid2005.pdf)
+     Services ]](http://www.infomall.org/publications/scriptingMGMT-WIP-ccgrid2005.pdf)
      Work in Progress session at IEEE/ACM Cluster Computing and Grid
      2005 Conference ([[CCGrid
      2005]](http://www.cs.cf.ac.uk/ccgrid2005/)). Cardiff, UK May
@@ -6346,7 +6346,7 @@ Students](#id.30j0zll)]
      Processing Techniques and Applications (PDPTA04), Las Vegas June
      2004
 887. Hasan Bulut, Shrideep Pallickara and
-     Geoffrey Fox[ ][[ Implementing a NTP-Based
+     Geoffrey Fox [[ Implementing a NTP-Based
      Time Service within a Distributed Brokering
      System]](http://www.infomall.org/publications/NB-TimeService.pdf)
      ACM International
@@ -6440,7 +6440,7 @@ Students](#id.30j0zll)]
 901. Mehmet A. Nacar, Marlon Pierce and
      Geoffrey C. Fox [[Developing a Secure Grid Computing Environment
      Shell Engine: Containers and
-     Service[ ]]](http://www.infomall.org/publications/GCE_Service.pdf)
+     Service ]](http://www.infomall.org/publications/GCE_Service.pdf)
      [[Special
      issue]](http://www.dynamicpublishers.com/Neural/neuralv12.htm)
      on Grid computing in Journal of Neural Parallel and Scientific
@@ -6549,7 +6549,7 @@ Students](#id.30j0zll)]
      November 5, 2003, Marina Del Rey, CA. USA
 917. Geoffrey Fox [[Messaging Systems:
      Parallel Computing the Internet and the
-     Grid[ ]]](http://www.infomall.org/publications/gridmp_fox.pdf)
+     Grid ]](http://www.infomall.org/publications/gridmp_fox.pdf)
      EuroPVM/MPI 2003 Invited Talk September 30 2003. Published in
      Lecture Notes in Computer Science Publisher: Springer Berlin /
      Heidelberg ISSN: 0302-9743 Subject: Computer Science Volume 2840 /
@@ -6842,12 +6842,12 @@ Students](#id.30j0zll)]
 962. [Geoffrey Fox, Sangmi Lee, Sunghoon
      Ko, Kangseok Kim, Sangyoon Oh, [[CAROUSEL Web service: Universal
      Accessible Web service Architecture for Collaborative
-     Application[ ]]](http://www.infomall.org/publications/Carousel_PerCom03.doc)
+     Application ]](http://www.infomall.org/publications/Carousel_PerCom03.doc)
      November 2002]
 963. Geoffrey Fox [[Multiparticle phase
      shift analysis in peripheral production experiments: Lessons from
      the
-     Past[ ]]](http://www.infomall.org/publications/pwa/pwa.pdf)
+     Past ]](http://www.infomall.org/publications/pwa/pwa.pdf)
      Proceedings of Partial Wave Analysis Workshop, CMU June 2-4 2002 at
      [[http://www.curtismeyer.com/pwa_work/
      ]](http://www.curtismeyer.com/pwa_work/)International Journal
@@ -7583,14 +7583,14 @@ Students](#id.30j0zll)]
     Indiana University PhD January 15 2007]
 -   [Gurhan Gunduz [[A Framework for Network
     Monitoring and Performance Based Routing in Distributed Middleware
-    Systems[ ]]](http://www.infomall.org/publications/GurhanThesis.pdf)
+    Systems ]](http://www.infomall.org/publications/GurhanThesis.pdf)
     Syracuse University PhD October 25 2006]
 -   Minjun Wang [[GRID-BASED
     COLLABORATION]](http://www.infomall.org/publications/Minjun-Dissertation-Revision.pdf)
     Syracuse University Computer Engineering PhD August 2 2006
 -   Sangyoon Oh [[Optimizing Web Service
     Performance in Mobile
-    Computing[ ]]](http://www.infomall.org/publications/SANGYOON_OH_DISSERTATIONfinal.pdf)
+    Computing ]](http://www.infomall.org/publications/SANGYOON_OH_DISSERTATIONfinal.pdf)
     Indiana University Ph D Computer Science August 1 2006
 -   Jungkee Kim [[Hybrid Search across
     peer-to-peer Federated
