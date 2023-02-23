@@ -7446,8 +7446,7 @@ Students](#id.30j0zll)]
       computers and applications: Architecture, software, computer
       systems, and general issues - Volume 1, 1988
 
-1037. **Theses by Community Grids Laboratory and Digital Science Center
-      Students**
+## Theses by Community Grids Laboratory and Digital Science Center Students
 
 -   Pulasthi Supun Wickramasinghe "[ROLE
     OF HIGH-PERFORMANCE COMPUTING IN DEEP
