@@ -26,18 +26,18 @@ Students](#id.30j0zll)]
 2.  John B. Rundle, Andrea Donnellan,
     Geoffrey Fox, James P Crutchfield, Robert A Granat, "[Nowcasting
     Earthquakes: Imaging the Earthquake Cycle in California with Machine
-    Learning](http://www.infomall.org/publications/NowcastingPaper.pdf)"[,
-    Earth and Space Science Open Archive,[ 28
-    Mar 2021,] DOI
+    Learning](http://www.infomall.org/publications/NowcastingPaper.pdf)",
+    Earth and Space Science Open Archive, 28
+    Mar 2021, DOI
     [10.1002/essoar.10506614.1](https://doi.org/10.1002/essoar.10506614.1),
 3.  Vibhatha Abeykoon, Geoffrey Fox, Minje Kim, Saliya
     Ekanayake, Supun Kamburugamuve, Kannan Govindarajan, Pulasthi Wickramasinghe, Niranda Perera, Chathura Widanage, Ahmet Uyar, Gurhan Gunduz, Selahatin Akkas, "Stochastic gradient
     descent‐based support vector machines training optimization on Big
-    Data and HPC frameworks,  "[published in Concurrency and Computation:
+    Data and HPC frameworks,  published in Concurrency and Computation:
     Practice and Experience: 30 March 2021
     [https://doi.org/10.1002/cpe.6292](https://doi.org/10.1002/cpe.6292)
 4.  [Quetzalcóatl Toledo-Marín, J; Fox,
-    Geoffrey; Sluka, James P; Glazier, James A, "[Deep learning
+    Geoffrey; Sluka, James P; Glazier, James A,  "Deep learning
     approaches to surrogates for solving the diffusion equation for
     mechanistic real-world simulations" February 10, 2021
     [Arxiv](https://arxiv.org/abs/2102.05527)
