@@ -85,25 +85,25 @@ Students](#id.30j0zll)]
     GRU](http://www.infomall.org/publications/2010.11796.pdf)",
     Technical report October 21,2020.
     [Arxiv](https://arxiv.org/pdf/2010.11796.pdf).
-11. [11.]SungRyeol Yang, Geoffrey Fox, and
+11. SungRyeol Yang, Geoffrey Fox, and
     Bokyoon Na, "[Taxonomic Classification of Objects with
     Convolutional Neural
     Networks](http://www.infomall.org/publications/taxonomyClassify-bkna%5B0%5D.pdf)",
     Special Session 4: Machine Learning on Big Data (MLBD 2020), Friday
     December 11,2020, IEEE Big Data Conference Atlanta GA. Technical
     Report Sep 06, 2020
-12. [12.][Geoffrey Fox, "[DRAFT Deep Learning
+12. [Geoffrey Fox, "[DRAFT Deep Learning
     for Spatial Time Series](Series.pdf)", Technical Report, 17
     November 2020.
     [ResearchGate](https://www.researchgate.net/publication/346012611_DRAFT_Deep_Learning_for_Spatial_Time_Series)]
-13. [13.]Spidal Collaboration (NSF 1443054):
+13. Spidal Collaboration (NSF 1443054):
     Arizona State (Oliver Beckstein), Indiana (Geoffrey Fox, Judy Qiu,
     David Crandall, Gregor von Laszewski), Kansas (John Paden), Rutgers
     (Shantenu Jha), Stony Brook (Fusheng Wang), University of Virginia
     (Madhav Marathe, Anil Vullikanti) and Utah (Thomas Cheatham);
     "[Summary Perspectives of the SPIDAL Project NSF #1443054 from
     2014-2020](2020-Final.pdf)" Technical Report, October 26, 2020
-14. [14.]Qian Lou, Bo Feng, Geoffrey C. Fox,
+14. Qian Lou, Bo Feng, Geoffrey C. Fox,
     and Lei Jiang, "[Glyph: Fast and Accurately Training Deep Neural
     Networks on Encrypted
     Data](http://www.infomall.org/publications/Glyph_new.pdf)",
@@ -111,21 +111,21 @@ Students](#id.30j0zll)]
     appear in updated
     [form](http://www.infomall.org/publications/Glyph_new.pdf) at
     NeurIPS 2020
-15. [15.]H. He, W. Zhao, S. Huang, G. C. Fox,
+15. H. He, W. Zhao, S. Huang, G. C. Fox,
     and Q. Wang, "[Research on the Architecture and its Implementation
     for Instrumentation and Measurement Cloud," IEEE Trans. Serv.
     Comput., vol. 13, no. 5, pp. 944--957, 2020 \[Online\]. Available:
     [http://dx.doi.org/10.1109/TSC.2017.2723006](http://dx.doi.org/10.1109/TSC.2017.2723006)
-16. [16.]Dimuthu Wannipurage, "[Tensorflow
+16. Dimuthu Wannipurage, "[Tensorflow
     Integration with Twister2](Study-Wannipurage.pdf)" Technical
     Report from Independent Study August 5 2020
-17. [17.]Bokyoon Na and Geoffrey Fox,
+17. Bokyoon Na and Geoffrey Fox,
     "[Object Detection by a Super-Resolution Method and a
     Convolutional Neural
     Networks](http://ijdat.org/index.php/ijdat/article/view/4)"
     in International Journal of Data Mining Science. Vol 1, Issue 1,
     pages 16-23, May 17 2021
-18. [18.]Vibhatha Abeykoon, Niranda Perera,
+18. Vibhatha Abeykoon, Niranda Perera,
     Chathura Widanage, Supun Kamburugamuve, Thejaka Amila Kanewala,
     Hasara Maithree, Pulasthi Wickramasinghe, Ahmet Uyar, Geoffrey Fox,
     "[Data Engineering for HPC with
@@ -133,29 +133,29 @@ Students](#id.30j0zll)]
     at 9th [Workshop](https://pyhpc.io/) on Python for High-Performance
     and Scientific Computing, November 13, 2020. Held at SC20
     [conference](https://sc20.supercomputing.org/)
-19. [19.]César Fernández Ramírez, Jorge Antonio
+19. César Fernández Ramírez, Jorge Antonio
     Silva-Castro, Miguel Albaladejo, Igor Danilkin, Andrew Jackura,
     Vincent Mathieu, Jannes Nys, Alessandro Pilloni, Adam Szczepaniak,
     Geoffrey Fox, "[Abstract: FQ.00003 : Nucleon resonance spectrum
     from Regge
     systematic](https://meetings.aps.org/Meeting/DNP20/Session/FQ.3)",
     2020 Fall Meeting of the APS Division of Nuclear Physics
-20. [20.]W. Gao, J. Zhan, G. Fox, X. Lu, and D.
+20. W. Gao, J. Zhan, G. Fox, X. Lu, and D.
     Stanzione, "[Benchmarking, Measuring, and Optimizing: Second
     BenchCouncil International
     Symposium](http://www.infomall.org/publications/BenchcouncilBook_bok_978-3-030-49556-5.pdf)",
     Bench 2019, Denver, CO, USA, November 14--16, 2019, Revised Selected
     Papers. Springer Nature, July 29, 2020
-21. [21.]Yuchen Wang, Mingze Xu, John D. Paden,
+21. Yuchen Wang, Mingze Xu, John D. Paden,
     Lora S. Koenig, Geoffrey C. Fox, David J. Crandall, "[Deep Tiered
     Image Segmentation for Detecting Internal Ice Layers in Radar
     Imagery" Technical Report July 23 2020. Arxiv:
     [2010.03712v1](https://arxiv.org/pdf/2010.03712.pdf)
-22. [22.]Bo Peng, Jiayu Li, Selahattin Akkas,
+22. Bo Peng, Jiayu Li, Selahattin Akkas,
     Fugang Wang, Takuya Araki, Ohno Yoshiyuki, Judy Qiu, "[Rank
     Position Forecasting in Car Racing]((1).pdf)", Technical
     Report July 12, 2020
-23. [23.]Geoffrey C. Fox, Gregor von Laszewski,
+23. Geoffrey C. Fox, Gregor von Laszewski,
     Fugang Wang, and Saumyadipta Pyne "[AICov: An Integrative Deep
     Learning Framework for COVID-19 Forecasting with Population
     Covariates" [Technical
@@ -164,11 +164,11 @@ Students](#id.30j0zll)]
     [update](http://www.infomall.org/publications/vonLaszewski_aicov_v2.pdf).
     Published in [J. data sci.(2021), 1-21, DOI
     10.6339/21-JDS1007](https://jds-online.org/journal/JDS/article/124/info)
-24. [24.]Ahmet F. Mustacoglu, Ferhat O. Catak,
+24. Ahmet F. Mustacoglu, Ferhat O. Catak,
     Geoffrey C. Fox, "[Password-based encryption approach for securing
     sensitive data" Security and Privacy, July 1 2020
     [DOI](https://doi.org/10.1002/spy2.121) and, [ResearchGate](https://www.researchgate.net/publication/342159936_Password-based_Encryption_Approach_for_Securing_Sensitive_Data)
-25. [25.]Chathura Widanage, Niranda Perera,
+25. Chathura Widanage, Niranda Perera,
     Vibhatha Abeykoon, Supun Kamburugamuve, Thejaka Amila Kanewalaz,
     Hasara Maithreek, Pulasthi Wickramasinghe, Ahmet Uyar, Gurhan
     Gunduz, and Geoffrey Fox, "[High Performance Data Engineering
@@ -176,7 +176,7 @@ Students](#id.30j0zll)]
     report](http://www.infomall.org/publications/Cylon.pdf) June
     30, 2020. 2020 IEEE International Conference on Smart Data Services
     (SMDS), 122-132.
-26. [26.]Ahmet Uyar, Gurhan Gunduz, Supun
+26. Ahmet Uyar, Gurhan Gunduz, Supun
     Kamburugamuve, Pulasthi Wickramasinghe, Chathura Widanage, Kannan
     Govindarajan, Niranda Perera, Vibhatha Abeykoon, Selahattin Akkas,
     Geoffrey Fox, "[Twister2 Cross-Platform Resource Scheduler for Big
@@ -186,19 +186,19 @@ Students](#id.30j0zll)]
     [Conference](http://www.basarim.org.tr/2020/doku.php?id=anasayfa)
     Basarim 2020, Ankara Yıldırım Beyazıt University, Ankara Turkey
     October 8-9, 2020
-27. [27.]Geoffrey Fox, "[Deep Learning Based
+27. Geoffrey Fox, "[Deep Learning Based
     Time
     Evolution](http://www.infomall.org/publications/Summary-DeepLearningBasedTimeEvolution.pdf)"
     Technical Report June 8 2020,
     [ResearchGate](https://www.researchgate.net/publication/342014823_Deep_Learning_Based_Time_Evolution)
-28. [28.]Qian Lou, Bo Feng, Geoffrey Charles
+28. Qian Lou, Bo Feng, Geoffrey Charles
     Fox, Lei Jiang "[Glyph: Fast and Accurately Training Deep Neural
     Networks on Encrypted
     Data](http://www.infomall.org/publications/1911.07101.pdf)"
     Technical report November 2019 updated May 30, 2020.
     [ResearchGate](https://www.researchgate.net/publication/337336681_Glyph_Fast_and_Accurately_Training_Deep_Neural_Networks_on_Encrypted_Data)
     Arxiv: [1911.07101v1](https://arxiv.org/abs/1911.07101)
-29. [29.]Nesreen Ahmed, Richard Alo, Catherine
+29. Nesreen Ahmed, Richard Alo, Catherine
     Amelink, Young Yun Baek, Aashish Chudhary, Kristy Collins, Albert
     Esterline, Edward Fox, Geoffrey Fox, Aric Hagberg, Ron Kenyon,
     Chris J. Kuhlman, Jure Leskovec, Dustin Machi1, Madhav V. Marathe,
@@ -208,7 +208,7 @@ Students](#id.30j0zll)]
     Innovation in Network Science and
     Engineering](http://www.infomall.org/publications/CINES-Gateway20.pdf)"
     Technical Report May 18 2020
-30. [30.]Pete Beckman, Jack Dongarra, Nicola
+30. Pete Beckman, Jack Dongarra, Nicola
     Ferrier, Geoffrey Fox, Terry Moore, Dan Reed, Micah Beck,
     "[Harnessing the Computing Continuum for Programming Our
     World](http://www.infomall.org/publications/paper_computing_continuum-2.pdf)",
@@ -218,7 +218,7 @@ Students](#id.30j0zll)]
     published by Wiley and edited by Albert Zomaya, Assad Abbas, Samee Khan,
     [DOI](https://doi.org/10.1002/9781119551713.ch7) 25 April
     2020
-31. [31.][JCS Kadupitiya, Geoffrey C. Fox and
+31. [JCS Kadupitiya, Geoffrey C. Fox and
     Vikram Jadhao, "[Simulating Molecular Dynamics with Large
     Timesteps using Recurrent Neural
     Networks](http://www.infomall.org/publications/2004.06493.pdf)"
@@ -226,29 +226,28 @@ Students](#id.30j0zll)]
     and
     [ResearchGate](https://www.researchgate.net/publication/341755756_Deep_Learning_Based_Integrators_for_Solving_Newton's_Equations_with_Large_Timesteps)
     12 April 2020. [Revised](http://arxiv.org/abs/2004.06493v2), and
-    [GitHub](https://github.com/softmaterialslab/RNN-MD)
-    site.]
-32. [32.]Bokyoon Na, Geoffrey C Fox, "[Object
+    
+32. Bokyoon Na, Geoffrey C Fox, "[Object
     Classifications by Image Super-Resolution Preprocessing for
     Convolutional Neural Networks", Advances in Science, Technology and
     Engineering Systems Journal (ASTESJ) Volume 5, Issue 2, Page No
     476-483, 2020 DOI:
     [10.25046/aj050261](http://dx.doi.org/10.25046/aj050261)
     March 12 2020
-33. [33.]J. C. S. Kadupitiya, F. Sun, G. Fox,
+33. J. C. S. Kadupitiya, F. Sun, G. Fox,
     and V. Jadhao, "[Machine learning surrogates for molecular dynamics
     simulations of soft
     materials](http://www.infomall.org/publications/Revision_JCS_2020.pdf),"
     *J. Comput. Sci.*, vol. 42, p. 101107, Apr. 2020 \[Online\]. Journal
     [link](http://www.sciencedirect.com/science/article/pii/S1877750319310609)
-34. [34.]JCS Kadupitiya, Geoffrey C. Fox, and
+34. JCS Kadupitiya, Geoffrey C. Fox, and
     Vikram Jadhao "[Abstract: L45.00002 :[ Recurrent Neural Networks
     Based Integrators for Molecular Dynamics
     Simulations](Simulations.pdf)", at [Session
     L45:](http://meetings.aps.org/Meeting/MAR20/Session/L45.2)
     Emerging Trends in Molecular Dynamics Simulations and Machine
     Learning II, 8:00 AM--11:00 AM, Wednesday, March 4, 2020, Denver, Colorado
-35. [35.]Aristeidis Tsaris, Jacob Balma, Murali
+35. Aristeidis Tsaris, Jacob Balma, Murali
     Emani, Steve Farrell, Geoffrey C Fox, Yin Junqi, Thorsten Kurth,
     Abid Malik, Prabhat, Mallikarjun Shankar, Venkatram Vishwanath,
     "[Exploring Deep Learning for Science Benchmarks on DOE
@@ -258,19 +257,19 @@ Students](#id.30j0zll)]
     Laboratory, Indiana University Bloomington, NVIDIA, insideHPC
     [article](https://insidehpc.com/2020/02/mlperf-hpc-working-group-seeks-participation/)
     and Exascale Computing Project Poster February 24, 2020
-36. [36.]Geoffrey Fox, and Shantenu Jha, "[MLforCI and CIforML: Future
+36. Geoffrey Fox, and Shantenu Jha, "[MLforCI and CIforML: Future
     Cyberinfrastructure](http://www.infomall.org/publications/MLforCI%20and%20CIforML.pdf)"
     Technical Report February 23 2020
     [ResearchGate](https://www.researchgate.net/publication/339458571_MLforCI_and_CIforML_Future_Cyberinfrastructure)
-37. [37.]Geoffrey C. Fox, Gregor von Laszewski,
+37. Geoffrey C. Fox, Gregor von Laszewski,
     "[Automated Big Data REST Service Creation in Support of Big Data
     Applications](http://www.infomall.org/publications/IUfinalreport-NIST%20Award%2060NANB18D268.pdf)"
     Technical Report December 26, 2019
-38. [38.]Online Book: E222 Spring 2019[
+38. Online Book: E222 Spring 2019[
     Introduction to Clouds and Machine
     Learning](http://www.infomall.org/publications/E222IntroCloudsplusML.pdf)
     Undergraduate Class 484 pages
-39. [39.]Online Book: [Cloud Computing Topics
+39. Online Book: [Cloud Computing Topics
     ](http://www.infomall.org/publications/CloudComputingTopics.pdf)Fall
     2019 590 pages
 40. Online Book: [Python for Cloud
@@ -7080,15 +7079,14 @@ Students](#id.30j0zll)]
       [Word](http://www.infomall.org/publications/flashjan01.doc)
       or
       [HTML](http://www.infomall.org/publications/flashjan01.html)
-1006. [1006.]Fox\'s
+1006. Fox\'s
       [Paper](http://www.infomall.org/publications/Internetics1.pdf)
       on Internetics: Technologies, Applications and Academic Fields
       Invited Chapter in Book :Feynman and Computation, edited by A.J.G.
       Hey, Perseus Books (1999).
-1007. [
-      ][Review](http://www.infomall.org/publications/CollabReviewmay09-01.pdf)]
+1007. [Review](http://www.infomall.org/publications/CollabReviewmay09-01.pdf)]
       of Collaborative Tools as of May 9 2001
-1008. [1008.[Older
+1008. [Older
       References](http://aspen.ucs.indiana.edu/collabtools/)]
       from 2001 and earlier
 1009. [[Object serialization for marshalling
@@ -7104,7 +7102,7 @@ Students](#id.30j0zll)]
       Lim](http://dl.acm.org/author_page.cfm?id=81452594408)\
       JAVA \'99 Proceedings of the ACM 1999 conference on Java Grande,
       1999]
-1010. [1010.[The gateway system: uniform Web based
+1010. [[The gateway system: uniform Web based
       access to remote
       resources](http://dl.acm.org/authorize?66872)][\
       [Geoffrey
@@ -7163,7 +7161,7 @@ Students](#id.30j0zll)]
       Bossert](http://dl.acm.org/author_page.cfm?id=81100257718)\
       Supercomputing \'95 Proceedings of the 1995 ACM/IEEE conference on
       Supercomputing (CDROM), 1995]
-1013. [1013.[A parallel Gauss-Seidel algorithm for
+1013. [[A parallel Gauss-Seidel algorithm for
       sparse power system
       matrices](http://dl.acm.org/authorize?669468)][\
       [D. P.
@@ -7187,7 +7185,7 @@ Students](#id.30j0zll)]
       Fox](http://dl.acm.org/author_page.cfm?id=81100501616)\
       Supercomputing \'94 Proceedings of the 1994 ACM/IEEE conference on
       Supercomputing, 1994]
-1015. [1015.[Fortran 90D/HPF compiler for
+1015. [[Fortran 90D/HPF compiler for
       distributed memory MIMD computers: design, implementation, and
       performance
       results](http://dl.acm.org/authorize?94000)][\
@@ -7216,7 +7214,7 @@ Students](#id.30j0zll)]
       Haupt](http://dl.acm.org/author_page.cfm?id=81100288865)\
       Supercomputing \'93 Proceedings of the 1993 ACM/IEEE conference on
       Supercomputing, 1993]
-1017. [1017.[Graph contraction for physical
+1017. [[Graph contraction for physical
       optimization methods: a quality-cost tradeoff for mapping data on
       parallel
       computers](http://dl.acm.org/authorize?73866)][\
@@ -7248,7 +7246,7 @@ Students](#id.30j0zll)]
       Tseng](http://dl.acm.org/author_page.cfm?id=81410592010)\
       ACM Letters on Programming Languages and Systems (LOPLAS),
       1993]
-1019. [1019.[A static performance estimator to
+1019. [[A static performance estimator to
       guide data partitioning
       decisions](http://dl.acm.org/authorize?74805)][\
       [Vasanth
@@ -7271,7 +7269,7 @@ Students](#id.30j0zll)]
       Salmon](http://dl.acm.org/author_page.cfm?id=81100050839)\
       Supercomputing \'89 Proceedings of the 1989 ACM/IEEE conference on
       Supercomputing, 1989]
-1021. [1021.[A universal concurrent algorithm for
+1021. [[A universal concurrent algorithm for
       plasma particle-in-cell simulation
       codes](http://dl.acm.org/authorize?4180)][\
       [P. C.
@@ -7305,7 +7303,7 @@ Students](#id.30j0zll)]
       Furmanski](http://dl.acm.org/author_page.cfm?id=81100369005)\
       C^3^P Proceedings of the third conference on Hypercube concurrent
       computers and applications - Volume 2, 1989]
-1024. [1024.[Use of the hypercube for symbolic
+1024. [[Use of the hypercube for symbolic
       quantum
       chromodynamics](http://dl.acm.org/authorize?4126)]\
       [A.
@@ -7338,7 +7336,7 @@ Students](#id.30j0zll)]
       Furmanski](http://dl.acm.org/author_page.cfm?id=81100369005)\
       C^3^P Proceedings of the third conference on Hypercube concurrent
       computers and applications - Volume 2, 1989
-1027. [1027.[The prime factor non-binary discrete
+1027. [[The prime factor non-binary discrete
       Fourier transform and use of Crystal_Router as a general purpose
       communication
       routine](http://dl.acm.org/authorize?4115)][\
@@ -7418,7 +7416,7 @@ Students](#id.30j0zll)]
       C^3^P Proceedings of the third conference on Hypercube concurrent
       computers and applications: Architecture, software, computer
       systems, and general issues - Volume 1, 1988
-1034. [1034.[Load balancing loosely synchronous
+1034. [[Load balancing loosely synchronous
       problems with a neural
       network](http://dl.acm.org/authorize?60885)]\
       [G. C.
