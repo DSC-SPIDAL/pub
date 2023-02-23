@@ -15919,7 +15919,7 @@ and general issues - Volume 1, 1988
 
 # Theses by Community Grids Laboratory and Digital Science Center Students
 
-[*]Pulasthi
+* Pulasthi
 Supun Wickramasinghe
 \"[ROLE](http://www.infomall.org/publications/Role_of_High_Performance_Computing_in_Deep_Learning_Thesis_final_v2.pdf)[
 ](http://www.infomall.org/publications/Role_of_High_Performance_Computing_in_Deep_Learning_Thesis_final_v2.pdf)[OF](http://www.infomall.org/publications/Role_of_High_Performance_Computing_in_Deep_Learning_Thesis_final_v2.pdf)[
@@ -15930,7 +15930,7 @@ Supun Wickramasinghe
 ](http://www.infomall.org/publications/Role_of_High_Performance_Computing_in_Deep_Learning_Thesis_final_v2.pdf)[LEARNING](http://www.infomall.org/publications/Role_of_High_Performance_Computing_in_Deep_Learning_Thesis_final_v2.pdf)\"
 Indiana University Ph.D. Thesis Dissertation Defense, June 3, 2021
 
-[*]Vibhatha
+* Vibhatha
 Lakmal Abeykoon,
 \"[TOWARDS](http://www.infomall.org/publications/vibhatha_thesis_revised.pdf)[
 ](http://www.infomall.org/publications/vibhatha_thesis_revised.pdf)[DATA](http://www.infomall.org/publications/vibhatha_thesis_revised.pdf)[
@@ -15943,7 +15943,7 @@ Lakmal Abeykoon,
 ](http://www.infomall.org/publications/vibhatha_thesis_revised.pdf)[BENCHMARKING](http://www.infomall.org/publications/vibhatha_thesis_revised.pdf)\",
 Indiana University Ph.D. Thesis Dissertation Defense, June 2, 2021
 
-[*]Hyungro
+* Hyungro
 Lee,
 [BUILDING](http://www.infomall.org/publications/Dissertation_HyungroLee.pdf)[
 ](http://www.infomall.org/publications/Dissertation_HyungroLee.pdf)[SOFTWARE](http://www.infomall.org/publications/Dissertation_HyungroLee.pdf)[-](http://www.infomall.org/publications/Dissertation_HyungroLee.pdf)[DEFINED](http://www.infomall.org/publications/Dissertation_HyungroLee.pdf)[
@@ -15953,7 +15953,7 @@ Lee,
 ](http://www.infomall.org/publications/Dissertation_HyungroLee.pdf)[ENVIRONMENTS](http://www.infomall.org/publications/Dissertation_HyungroLee.pdf),
 Indiana University Ph.D Dissertation Defense, May 31 2019
 
-[*]Jerome
+* Jerome
 E. Mitchell,
 \"[A](http://www.infomall.org/publications/mitchell_dissertation.pdf)[
 ](http://www.infomall.org/publications/mitchell_dissertation.pdf)[PROGRESSIVE](http://www.infomall.org/publications/mitchell_dissertation.pdf)[
@@ -15971,7 +15971,7 @@ E. Mitchell,
 ](http://www.infomall.org/publications/mitchell_dissertation.pdf)[IMAGERY](http://www.infomall.org/publications/mitchell_dissertation.pdf)\"
 Indiana University Ph.D Dissertation Defense, July 26 2018
 
-[*]Supun
+* Supun
 Kamburugamuve,
 "[TOWARDS](http://www.infomall.org/publications/supun_dissertation.pdf)[
 ](http://www.infomall.org/publications/supun_dissertation.pdf)[HPC](http://www.infomall.org/publications/supun_dissertation.pdf)[
@@ -15986,7 +15986,7 @@ Kamburugamuve,
 ](http://www.infomall.org/publications/supun_dissertation.pdf)[APPROACH](http://www.infomall.org/publications/supun_dissertation.pdf)",, Indiana University Ph.D Dissertation Defense,
 May 14th, 2018.
 
-[*]Andrew
+* Andrew
 J. Younge,
 \"[Architectural](http://www.infomall.org/publications/Younge_phd-thesis.pdf)[
 ](http://www.infomall.org/publications/Younge_phd-thesis.pdf)[Principles](http://www.infomall.org/publications/Younge_phd-thesis.pdf)[
@@ -16000,7 +16000,7 @@ J. Younge,
 ](http://www.infomall.org/publications/Younge_phd-thesis.pdf)[Clusters](http://www.infomall.org/publications/Younge_phd-thesis.pdf)\",
 Indiana University Ph.D Dissertation Defense, October 10th, 2016
 
-[*]Saliya
+* Saliya
 Ekanayake,
 \"[Towards](http://www.infomall.org/publications/SaliyaEkanayake_Dissertation.pdf)[
 ](http://www.infomall.org/publications/SaliyaEkanayake_Dissertation.pdf)[a](http://www.infomall.org/publications/SaliyaEkanayake_Dissertation.pdf)[
@@ -16014,7 +16014,7 @@ Ekanayake,
 ](http://www.infomall.org/publications/SaliyaEkanayake_Dissertation.pdf)[Benchmarking](http://www.infomall.org/publications/SaliyaEkanayake_Dissertation.pdf)\",
 Indiana University Ph.D Dissertation Defense, September 28th, 2016
 
-[*]Yang
+* Yang
 Ruan
 [SCALABLE](http://www.infomall.org/publications/Final_Thesis_v1.03.pdf)[
 ](http://www.infomall.org/publications/Final_Thesis_v1.03.pdf)[AND](http://www.infomall.org/publications/Final_Thesis_v1.03.pdf)[
@@ -16028,7 +16028,7 @@ Ruan
 ](http://www.infomall.org/publications/Final_Thesis_v1.03.pdf)[DATA](http://www.infomall.org/publications/Final_Thesis_v1.03.pdf)
 Indiana University PhD defense 18 August 2014
 
-[*]Thilina
+* Thilina
 Gunarathne
 [SCALABLE](http://www.infomall.org/publications/thilina-gunarathne-thesis-final.pdf)[
 ](http://www.infomall.org/publications/thilina-gunarathne-thesis-final.pdf)[PARALLEL](http://www.infomall.org/publications/thilina-gunarathne-thesis-final.pdf)[
@@ -16054,7 +16054,7 @@ Gunarathne
 ](http://www.infomall.org/publications/thilina-gunarathne-thesis-final.pdf)[ENVIRONMENTS](http://www.infomall.org/publications/thilina-gunarathne-thesis-final.pdf)
 Indiana University PhD defense April 21 2014
 
-[*]Tao
+* Tao
 Huang
 [BUILDING](http://www.infomall.org/publications/TaoHuang-Thesis-Final.pdf)[
 ](http://www.infomall.org/publications/TaoHuang-Thesis-Final.pdf)[A](http://www.infomall.org/publications/TaoHuang-Thesis-Final.pdf)[
@@ -16071,7 +16071,7 @@ Huang
 ](http://www.infomall.org/publications/TaoHuang-Thesis-Final.pdf)[STREAMS](http://www.infomall.org/publications/TaoHuang-Thesis-Final.pdf)
 Indiana University PhD January 11 2013
 
-[*]Zhenhua
+* Zhenhua
 Guo
 [HIGH](http://www.infomall.org/publications/guo-thesis_V5.pdf)[
 ](http://www.infomall.org/publications/guo-thesis_V5.pdf)[PERFORMANCE](http://www.infomall.org/publications/guo-thesis_V5.pdf)[
@@ -16087,7 +16087,7 @@ Guo
 ](http://www.infomall.org/publications/guo-thesis_V5.pdf)[MAPREDUCE](http://www.infomall.org/publications/guo-thesis_V5.pdf)
 Indiana University PhD August 31 2012
 
-[*]Seung-Hee
+* Seung-Hee
 Bae
 [SCALABLE](http://www.infomall.org/publications/SeungheeBae_Dissertation.pdf)[
 ](http://www.infomall.org/publications/SeungheeBae_Dissertation.pdf)[HIGH](http://www.infomall.org/publications/SeungheeBae_Dissertation.pdf)[
@@ -16096,7 +16096,7 @@ Bae
 ](http://www.infomall.org/publications/SeungheeBae_Dissertation.pdf)[SCALING](http://www.infomall.org/publications/SeungheeBae_Dissertation.pdf)
 Indiana University PhD January 17 2012
 
-[*]Jong
+* Jong
 Youl Choi
 [Unsupervised](http://www.infomall.org/publications/damix.final.v1.pdf)[
 ](http://www.infomall.org/publications/damix.final.v1.pdf)[Learning](http://www.infomall.org/publications/damix.final.v1.pdf)[
@@ -16113,7 +16113,7 @@ Youl Choi
 ](http://www.infomall.org/publications/damix.final.v1.pdf)[Analysis](http://www.infomall.org/publications/damix.final.v1.pdf)
 Indiana University PhD January 12 2012
 
-[*]Jaliya
+* Jaliya
 Ekanayake
 [ARCHITECTURE](http://www.infomall.org/publications/thesis_jaliya_v24.pdf)[
 ](http://www.infomall.org/publications/thesis_jaliya_v24.pdf)[AND](http://www.infomall.org/publications/thesis_jaliya_v24.pdf)[
@@ -16128,7 +16128,7 @@ Ekanayake
 ](http://www.infomall.org/publications/thesis_jaliya_v24.pdf)[COMPUTING](http://www.infomall.org/publications/thesis_jaliya_v24.pdf)
 Indiana University PhD December 20 2010
 
-[*]Ali
+* Ali
 Kaplan
 [Collaborative](http://www.infomall.org/publications/ali.kaplan.proofreading.V6.docx)[
 ](http://www.infomall.org/publications/ali.kaplan.proofreading.V6.docx)[Framework](http://www.infomall.org/publications/ali.kaplan.proofreading.V6.docx)[
@@ -16142,7 +16142,7 @@ Kaplan
 ](http://www.infomall.org/publications/ali.kaplan.proofreading.V6.docx)[Computing](http://www.infomall.org/publications/ali.kaplan.proofreading.V6.docx)
 Indiana University PhD April 28 2009
 
-[*]Ahmet
+* Ahmet
 Topcu
 [INTEGRATED](http://www.infomall.org/publications/atopcu_thesis.pdf)[
 ](http://www.infomall.org/publications/atopcu_thesis.pdf)[COLLABORATIVE](http://www.infomall.org/publications/atopcu_thesis.pdf)[
@@ -16150,7 +16150,7 @@ Topcu
 ](http://www.infomall.org/publications/atopcu_thesis.pdf)[SYSTEMS](http://www.infomall.org/publications/atopcu_thesis.pdf)
 Indiana University PhD March 23 2009
 
-[*]Ahmet
+* Ahmet
 Sayar
 [High](http://www.infomall.org/publications/thesis_asayar.pdf)[
 ](http://www.infomall.org/publications/thesis_asayar.pdf)[Performance](http://www.infomall.org/publications/thesis_asayar.pdf)[,
@@ -16161,7 +16161,7 @@ Sayar
 ](http://www.infomall.org/publications/thesis_asayar.pdf)[Systems](http://www.infomall.org/publications/thesis_asayar.pdf)
 Indiana University PhD January 28 2009
 
-[*]Ahmet
+* Ahmet
 Fatih Mustacoglu
 [Event](http://www.infomall.org/publications/AhmetFatihMustacoglu-Thesis-08_22_2008.pdf)[-](http://www.infomall.org/publications/AhmetFatihMustacoglu-Thesis-08_22_2008.pdf)[based](http://www.infomall.org/publications/AhmetFatihMustacoglu-Thesis-08_22_2008.pdf)[
 ](http://www.infomall.org/publications/AhmetFatihMustacoglu-Thesis-08_22_2008.pdf)[Infrastructure](http://www.infomall.org/publications/AhmetFatihMustacoglu-Thesis-08_22_2008.pdf)[
@@ -16172,7 +16172,7 @@ Fatih Mustacoglu
 ](http://www.infomall.org/publications/AhmetFatihMustacoglu-Thesis-08_22_2008.pdf)[Records](http://www.infomall.org/publications/AhmetFatihMustacoglu-Thesis-08_22_2008.pdf)
 Indiana University PhD July 31 2008
 
-[*]Mehmet
+* Mehmet
 Nacar
 [A](http://www.infomall.org/publications/Mehmet%20Nacar%20Dissertation-v1.pdf)[
 ](http://www.infomall.org/publications/Mehmet%20Nacar%20Dissertation-v1.pdf)[COMPONENT](http://www.infomall.org/publications/Mehmet%20Nacar%20Dissertation-v1.pdf)[
@@ -16186,7 +16186,7 @@ Nacar
 ](http://www.infomall.org/publications/Mehmet%20Nacar%20Dissertation-v1.pdf)[PORTALS](http://www.infomall.org/publications/Mehmet%20Nacar%20Dissertation-v1.pdf)
 Indiana University PhD November 27 2007
 
-[*]Kangseok
+* Kangseok
 Kim
 [A](http://www.infomall.org/publications/KangseokKim-Dissertation.pdf)[
 ](http://www.infomall.org/publications/KangseokKim-Dissertation.pdf)[FRAMEWORK](http://www.infomall.org/publications/KangseokKim-Dissertation.pdf)[
@@ -16197,14 +16197,14 @@ Kim
 ](http://www.infomall.org/publications/KangseokKim-Dissertation.pdf)[COLLABORATION](http://www.infomall.org/publications/KangseokKim-Dissertation.pdf)
 Indiana University PhD September 26 2007
 
-[*]Beytullah
+* Beytullah
 Yildiz
 [DISTRIBUTED](http://www.infomall.org/publications/byildiz_dissertation.pdf)[
 ](http://www.infomall.org/publications/byildiz_dissertation.pdf)[HANDLER](http://www.infomall.org/publications/byildiz_dissertation.pdf)[
 ](http://www.infomall.org/publications/byildiz_dissertation.pdf)[ARCHITECTURE](http://www.infomall.org/publications/byildiz_dissertation.pdf)
 Indiana University PhD May 28 2007
 
-[*]Mehmet
+* Mehmet
 Aktas
 [Information](http://www.infomall.org/publications/MehmetAktasThesis.pdf)[
 ](http://www.infomall.org/publications/MehmetAktasThesis.pdf)[Federation](http://www.infomall.org/publications/MehmetAktasThesis.pdf)[
@@ -16214,7 +16214,7 @@ Aktas
 ](http://www.infomall.org/publications/MehmetAktasThesis.pdf)[Services](http://www.infomall.org/publications/MehmetAktasThesis.pdf)
 Indiana University PhD May 3 2007
 
-[*]Hasan
+* Hasan
 Bulut
 [HIGH](http://www.infomall.org/publications/HasanBulutThesis.pdf)[
 ](http://www.infomall.org/publications/HasanBulutThesis.pdf)[PERFORMANCE](http://www.infomall.org/publications/HasanBulutThesis.pdf)[
@@ -16226,7 +16226,7 @@ Bulut
 ](http://www.infomall.org/publications/HasanBulutThesis.pdf)[STREAMS](http://www.infomall.org/publications/HasanBulutThesis.pdf)
 Indiana University PhD April 24 2007
 
-[*]Harshawardhan
+* Harshawardhan
 Gadgil
 [SCALABLE](http://www.infomall.org/publications/hgadgil-THESIS.pdf)[,
 ](http://www.infomall.org/publications/hgadgil-THESIS.pdf)[FAULT](http://www.infomall.org/publications/hgadgil-THESIS.pdf)[-](http://www.infomall.org/publications/hgadgil-THESIS.pdf)[TOLERANT](http://www.infomall.org/publications/hgadgil-THESIS.pdf)[
@@ -16240,7 +16240,7 @@ Gadgil
 ](http://www.infomall.org/publications/hgadgil-THESIS.pdf)[MIDDLEWARE](http://www.infomall.org/publications/hgadgil-THESIS.pdf)
 Indiana University PhD April 5 2007
 
-[*]Galip
+* Galip
 Aydin
 [Service](http://www.infomall.org/publications/GalipAydin-Thesis.pdf)[
 ](http://www.infomall.org/publications/GalipAydin-Thesis.pdf)[Oriented](http://www.infomall.org/publications/GalipAydin-Thesis.pdf)[
@@ -16256,7 +16256,7 @@ Aydin
 ](http://www.infomall.org/publications/GalipAydin-Thesis.pdf)[Grids](http://www.infomall.org/publications/GalipAydin-Thesis.pdf)
 Indiana University PhD January 15 2007
 
-[*]Gurhan
+* Gurhan
 Gunduz
 [A](http://www.infomall.org/publications/GurhanThesis.pdf)[
 ](http://www.infomall.org/publications/GurhanThesis.pdf)[Framework](http://www.infomall.org/publications/GurhanThesis.pdf)[
@@ -16274,13 +16274,13 @@ Gunduz
 ](http://www.infomall.org/publications/GurhanThesis.pdf)[ ]Syracuse
 University PhD October 25 2006
 
-[*]Minjun
+* Minjun
 Wang
 [GRID](http://www.infomall.org/publications/Minjun-Dissertation-Revision.pdf)[-](http://www.infomall.org/publications/Minjun-Dissertation-Revision.pdf)[BASED](http://www.infomall.org/publications/Minjun-Dissertation-Revision.pdf)[
 ](http://www.infomall.org/publications/Minjun-Dissertation-Revision.pdf)[COLLABORATION](http://www.infomall.org/publications/Minjun-Dissertation-Revision.pdf)
 Syracuse University Computer Engineering PhD August 2 2006
 
-[*]Sangyoon
+* Sangyoon
 Oh
 [Optimizing](http://www.infomall.org/publications/SANGYOON_OH_DISSERTATIONfinal.pdf)[
 ](http://www.infomall.org/publications/SANGYOON_OH_DISSERTATIONfinal.pdf)[Web](http://www.infomall.org/publications/SANGYOON_OH_DISSERTATIONfinal.pdf)[
@@ -16292,7 +16292,7 @@ Oh
 ](http://www.infomall.org/publications/SANGYOON_OH_DISSERTATIONfinal.pdf)[ ]Indiana
 University Ph D Computer Science August 1 2006
 
-[*]Jungkee
+* Jungkee
 Kim
 [Hybrid](http://www.infomall.org/publications/JKimDissertation.pdf)[
 ](http://www.infomall.org/publications/JKimDissertation.pdf)[Search](http://www.infomall.org/publications/JKimDissertation.pdf)[
@@ -16302,7 +16302,7 @@ Kim
 ](http://www.infomall.org/publications/JKimDissertation.pdf)[Data](http://www.infomall.org/publications/JKimDissertation.pdf)
 Florida State University PhD April 6 2005
 
-[*]Ahmet
+* Ahmet
 Uyar
 [Scalable](http://www.infomall.org/publications/UyarThesisFinal.PDF)[
 ](http://www.infomall.org/publications/UyarThesisFinal.PDF)[Service](http://www.infomall.org/publications/UyarThesisFinal.PDF)[
@@ -16313,7 +16313,7 @@ Uyar
 ](http://www.infomall.org/publications/UyarThesisFinal.PDF)[Conferencing](http://www.infomall.org/publications/UyarThesisFinal.PDF)
 Syracuse University PhD March 23 2005
 
-[*][Xiaohong](http://www.infomall.org/publications/xqiu-dissertation.html)[
+* [Xiaohong](http://www.infomall.org/publications/xqiu-dissertation.html)[
 ](http://www.infomall.org/publications/xqiu-dissertation.html)[Qiu](http://www.infomall.org/publications/xqiu-dissertation.html)
 [Message](http://www.infomall.org/publications/qiuPhDthesis.pdf)[-](http://www.infomall.org/publications/qiuPhDthesis.pdf)[based](http://www.infomall.org/publications/qiuPhDthesis.pdf)[
 ](http://www.infomall.org/publications/qiuPhDthesis.pdf)[MVC](http://www.infomall.org/publications/qiuPhDthesis.pdf)[
@@ -16325,7 +16325,7 @@ Syracuse University PhD March 23 2005
 ](http://www.infomall.org/publications/qiuPhDthesis.pdf)[Applications](http://www.infomall.org/publications/qiuPhDthesis.pdf)
 Syracuse University PhD March 2 2005
 
-[*]Sang
+* Sang
 Lim
 [PLATFORMS](http://www.infomall.org/publications/sanglimdissertation.pdf)[
 ](http://www.infomall.org/publications/sanglimdissertation.pdf)[FOR](http://www.infomall.org/publications/sanglimdissertation.pdf)[
@@ -16339,7 +16339,7 @@ Lim
 ](http://www.infomall.org/publications/sanglimdissertation.pdf)[JAVA](http://www.infomall.org/publications/sanglimdissertation.pdf)
 Florida State University PhD June 11 2003
 
-[*]Han-Ku
+* Han-Ku
 Lee
 [TOWARDS](http://www.infomall.org/publications/hkleedissertationjune03.pdf)[
 ](http://www.infomall.org/publications/hkleedissertationjune03.pdf)[EFFICIENT](http://www.infomall.org/publications/hkleedissertationjune03.pdf)[
@@ -16354,7 +16354,7 @@ Lee
 ](http://www.infomall.org/publications/hkleedissertationjune03.pdf)[COMPUTING](http://www.infomall.org/publications/hkleedissertationjune03.pdf)
 Florida State University PhD June 12 2003
 
-[*]Sangmi
+* Sangmi
 Lee
 [A](http://www.infomall.org/publications/Sangmi_Lee_thesis.pdf)[
 ](http://www.infomall.org/publications/Sangmi_Lee_thesis.pdf)[Modular](http://www.infomall.org/publications/Sangmi_Lee_thesis.pdf)[
@@ -16371,7 +16371,7 @@ Lee
 ](http://www.infomall.org/publications/Sangmi_Lee_thesis.pdf)[Grids](http://www.infomall.org/publications/Sangmi_Lee_thesis.pdf)
 Florida State University PhD July 3 2003
 
-[*]Choonhan
+* Choonhan
 Youn
 [Web](http://www.infomall.org/publications/DissertationChoonhanYounRevision.pdf)[
 ](http://www.infomall.org/publications/DissertationChoonhanYounRevision.pdf)[Services](http://www.infomall.org/publications/DissertationChoonhanYounRevision.pdf)[
