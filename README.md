@@ -17,27 +17,27 @@ Students](#id.30j0zll)]
 
 1.  Gregor von Laszewski, Anthony Orlowski,
     Richard H. Otten, Reilly Markowitz, Sunny Gandh, Adam Chai,
-    Geoffrey C. Fox, Wo L. Chang (2021). "Using GAS for Speedy
+    Geoffrey C. Fox, Wo L. Chang (2021). "[Using GAS for Speedy
     Generation of HybridMulti-Cloud Auto Generated AI
-    Services](http://www.infomall.org/publications/COMPSAC-GAS-openapi.pdf)".
+    Services](http://www.infomall.org/publications/COMPSAC-GAS-openapi.pdf)"[.
     IEEE COMPSAC 2021: Intelligent and Resilient Computing for a
     Collaborative World 45th Anniversary
     [Conference](https://ieeecompsac.computer.org/2021/).
 2.  John B. Rundle, Andrea Donnellan,
-    Geoffrey Fox, James P Crutchfield, Robert A Granat, "Nowcasting
+    Geoffrey Fox, James P Crutchfield, Robert A Granat, "[Nowcasting
     Earthquakes: Imaging the Earthquake Cycle in California with Machine
-    Learning](http://www.infomall.org/publications/NowcastingPaper.pdf)",
+    Learning](http://www.infomall.org/publications/NowcastingPaper.pdf)"[,
     Earth and Space Science Open Archive,[ 28
     Mar 2021,] DOI
     [10.1002/essoar.10506614.1](https://doi.org/10.1002/essoar.10506614.1),
 3.  Vibhatha Abeykoon, Geoffrey Fox, Minje Kim, Saliya
     Ekanayake, Supun Kamburugamuve, Kannan Govindarajan, Pulasthi Wickramasinghe, Niranda Perera, Chathura Widanage, Ahmet Uyar, Gurhan Gunduz, Selahatin Akkas, "Stochastic gradient
     descent‐based support vector machines training optimization on Big
-    Data and HPC frameworks", published in Concurrency and Computation:
+    Data and HPC frameworks,  "[published in Concurrency and Computation:
     Practice and Experience: 30 March 2021
     [https://doi.org/10.1002/cpe.6292](https://doi.org/10.1002/cpe.6292)
 4.  [Quetzalcóatl Toledo-Marín, J; Fox,
-    Geoffrey; Sluka, James P; Glazier, James A, "]Deep learning
+    Geoffrey; Sluka, James P; Glazier, James A, "[Deep learning
     approaches to surrogates for solving the diffusion equation for
     mechanistic real-world simulations" February 10, 2021
     [Arxiv](https://arxiv.org/abs/2102.05527)
@@ -50,13 +50,13 @@ Students](#id.30j0zll)]
     (2021). [DOI](http://dx.doi.org/10.1186/s12911-021-01387-z), [Researchgate](https://www.researchgate.net/publication/349557156_Linking_clinotypes_to_phenotypes_and_genotypes_from_laboratory_test_results_in_comprehensive_physical_exams)
     February 24, 2021
 6.  Pulasthi Wickramasinghe, Geoffrey Fox,
-    "Multidimensional Scaling for Gene Sequence Data with
+    "[Multidimensional Scaling for Gene Sequence Data with
     Autoencoders](Autoencoders.pdf)", Best paper award at Data
     Science conference [CONF-CDS
     2021](https://2021.confcds.org/index.html) January 28 2021
     Stanford online. [Arxiv](https://arxiv.org/abs/2104.09014)
 7.  [Bo Feng and Geoffrey Fox,
-    "TSEQPREDICTOR: Spatiotemporal Extreme Earthquakes Forecasting for
+    "[TSEQPREDICTOR: Spatiotemporal Extreme Earthquakes Forecasting for
     Southern
     California](http://www.infomall.org/publications/2012.14336.pdf)",
     preprint December 20, 2020,.
@@ -64,7 +64,7 @@ Students](#id.30j0zll)]
 8.  Niranda Perera, Vibhatha
     Abeykoon,Chathura Widanage, Supun Kamburugamuve, Thejaka Amila
     Kanewala, Pulasthi Wickramasinghe, Ahmet Uyar, Hasara Maithree,
-    Damitha Lenadora, Geoffrey Fox, "A Fast, Scalable, Universal
+    Damitha Lenadora, Geoffrey Fox, "[A Fast, Scalable, Universal
     Approach For Distributed Data
     Reductions](http://www.infomall.org/publications/cylon_aggregates_iwbr20.pdf)[",
     ]International
@@ -74,25 +74,25 @@ Students](#id.30j0zll)]
 9.  César Fernández Ramírez, Jorge Antonio
     Silva-Castro, Miguel Albaladejo, Igor Danilkin, Andrew Jackura,
     Vincent Mathieu, Jannes Nys, Alessandro Pilloni, Adam Szczepaniak,
-    Geoffrey Fox, "Nucleon resonance spectrum from Regge
+    Geoffrey Fox, "[Nucleon resonance spectrum from Regge
     systematic](https://meetings.aps.org/Meeting/DNP20/Session/FQ.3)",
     Bulletin of American Physical Society, 2020 Fall Meeting of the APS
     Division of Nuclear Physics, Thursday--Sunday, October 29--November
     1 2020
 10. Bo Feng, Qian Lou, Lei Jiang, and
-    Geoffrey C. Fox, "CryptoGRU: Low Latency Privacy-Preserving Text
+    Geoffrey C. Fox, "[CryptoGRU: Low Latency Privacy-Preserving Text
     Analysis With
     GRU](http://www.infomall.org/publications/2010.11796.pdf)",
     Technical report October 21,2020.
     [Arxiv](https://arxiv.org/pdf/2010.11796.pdf).
 11. [11.]SungRyeol Yang, Geoffrey Fox, and
-    Bokyoon Na, "Taxonomic Classification of Objects with
+    Bokyoon Na, "[Taxonomic Classification of Objects with
     Convolutional Neural
     Networks](http://www.infomall.org/publications/taxonomyClassify-bkna%5B0%5D.pdf)",
     Special Session 4: Machine Learning on Big Data (MLBD 2020), Friday
     December 11,2020, IEEE Big Data Conference Atlanta GA. Technical
     Report Sep 06, 2020
-12. [12.][Geoffrey Fox, "DRAFT Deep Learning
+12. [12.][Geoffrey Fox, "[DRAFT Deep Learning
     for Spatial Time Series](Series.pdf)", Technical Report, 17
     November 2020.
     [ResearchGate](https://www.researchgate.net/publication/346012611_DRAFT_Deep_Learning_for_Spatial_Time_Series)]
@@ -101,10 +101,10 @@ Students](#id.30j0zll)]
     David Crandall, Gregor von Laszewski), Kansas (John Paden), Rutgers
     (Shantenu Jha), Stony Brook (Fusheng Wang), University of Virginia
     (Madhav Marathe, Anil Vullikanti) and Utah (Thomas Cheatham);
-    "Summary Perspectives of the SPIDAL Project NSF #1443054 from
+    "[Summary Perspectives of the SPIDAL Project NSF #1443054 from
     2014-2020](2020-Final.pdf)" Technical Report, October 26, 2020
 14. [14.]Qian Lou, Bo Feng, Geoffrey C. Fox,
-    and Lei Jiang, "Glyph: Fast and Accurately Training Deep Neural
+    and Lei Jiang, "[Glyph: Fast and Accurately Training Deep Neural
     Networks on Encrypted
     Data](http://www.infomall.org/publications/Glyph_new.pdf)",
     Technical report [arxiv](https://arxiv.org/abs/1911.07101) to
@@ -112,15 +112,15 @@ Students](#id.30j0zll)]
     [form](http://www.infomall.org/publications/Glyph_new.pdf) at
     NeurIPS 2020
 15. [15.]H. He, W. Zhao, S. Huang, G. C. Fox,
-    and Q. Wang, "Research on the Architecture and its Implementation
+    and Q. Wang, "[Research on the Architecture and its Implementation
     for Instrumentation and Measurement Cloud," IEEE Trans. Serv.
     Comput., vol. 13, no. 5, pp. 944--957, 2020 \[Online\]. Available:
     [http://dx.doi.org/10.1109/TSC.2017.2723006](http://dx.doi.org/10.1109/TSC.2017.2723006)
-16. [16.]Dimuthu Wannipurage, "Tensorflow
+16. [16.]Dimuthu Wannipurage, "[Tensorflow
     Integration with Twister2](Study-Wannipurage.pdf)" Technical
     Report from Independent Study August 5 2020
 17. [17.]Bokyoon Na and Geoffrey Fox,
-    "Object Detection by a Super-Resolution Method and a
+    "[Object Detection by a Super-Resolution Method and a
     Convolutional Neural
     Networks](http://ijdat.org/index.php/ijdat/article/view/4)"
     in International Journal of Data Mining Science. Vol 1, Issue 1,
@@ -128,7 +128,7 @@ Students](#id.30j0zll)]
 18. [18.]Vibhatha Abeykoon, Niranda Perera,
     Chathura Widanage, Supun Kamburugamuve, Thejaka Amila Kanewala,
     Hasara Maithree, Pulasthi Wickramasinghe, Ahmet Uyar, Geoffrey Fox,
-    "Data Engineering for HPC with
+    "[Data Engineering for HPC with
     Python](http://www.infomall.org/publications/PyCylon_PyHPC.pdf)"
     at 9th [Workshop](https://pyhpc.io/) on Python for High-Performance
     and Scientific Computing, November 13, 2020. Held at SC20
@@ -136,27 +136,27 @@ Students](#id.30j0zll)]
 19. [19.]César Fernández Ramírez, Jorge Antonio
     Silva-Castro, Miguel Albaladejo, Igor Danilkin, Andrew Jackura,
     Vincent Mathieu, Jannes Nys, Alessandro Pilloni, Adam Szczepaniak,
-    Geoffrey Fox, "Abstract: FQ.00003 : Nucleon resonance spectrum
+    Geoffrey Fox, "[Abstract: FQ.00003 : Nucleon resonance spectrum
     from Regge
     systematic](https://meetings.aps.org/Meeting/DNP20/Session/FQ.3)",
     2020 Fall Meeting of the APS Division of Nuclear Physics
 20. [20.]W. Gao, J. Zhan, G. Fox, X. Lu, and D.
-    Stanzione, "Benchmarking, Measuring, and Optimizing: Second
+    Stanzione, "[Benchmarking, Measuring, and Optimizing: Second
     BenchCouncil International
     Symposium](http://www.infomall.org/publications/BenchcouncilBook_bok_978-3-030-49556-5.pdf)",
     Bench 2019, Denver, CO, USA, November 14--16, 2019, Revised Selected
     Papers. Springer Nature, July 29, 2020
 21. [21.]Yuchen Wang, Mingze Xu, John D. Paden,
-    Lora S. Koenig, Geoffrey C. Fox, David J. Crandall, "Deep Tiered
+    Lora S. Koenig, Geoffrey C. Fox, David J. Crandall, "[Deep Tiered
     Image Segmentation for Detecting Internal Ice Layers in Radar
     Imagery" Technical Report July 23 2020. Arxiv:
     [2010.03712v1](https://arxiv.org/pdf/2010.03712.pdf)
 22. [22.]Bo Peng, Jiayu Li, Selahattin Akkas,
-    Fugang Wang, Takuya Araki, Ohno Yoshiyuki, Judy Qiu, "Rank
+    Fugang Wang, Takuya Araki, Ohno Yoshiyuki, Judy Qiu, "[Rank
     Position Forecasting in Car Racing]((1).pdf)", Technical
     Report July 12, 2020
 23. [23.]Geoffrey C. Fox, Gregor von Laszewski,
-    Fugang Wang, and Saumyadipta Pyne "AICov: An Integrative Deep
+    Fugang Wang, and Saumyadipta Pyne "[AICov: An Integrative Deep
     Learning Framework for COVID-19 Forecasting with Population
     Covariates" [Technical
     Report](http://www.infomall.org/publications/paper_covid.pdf)
@@ -165,13 +165,13 @@ Students](#id.30j0zll)]
     Published in [J. data sci.(2021), 1-21, DOI
     10.6339/21-JDS1007](https://jds-online.org/journal/JDS/article/124/info)
 24. [24.]Ahmet F. Mustacoglu, Ferhat O. Catak,
-    Geoffrey C. Fox, "Password-based encryption approach for securing
+    Geoffrey C. Fox, "[Password-based encryption approach for securing
     sensitive data" Security and Privacy, July 1 2020
     [DOI](https://doi.org/10.1002/spy2.121) and, [ResearchGate](https://www.researchgate.net/publication/342159936_Password-based_Encryption_Approach_for_Securing_Sensitive_Data)
 25. [25.]Chathura Widanage, Niranda Perera,
     Vibhatha Abeykoon, Supun Kamburugamuve, Thejaka Amila Kanewalaz,
     Hasara Maithreek, Pulasthi Wickramasinghe, Ahmet Uyar, Gurhan
-    Gunduz, and Geoffrey Fox, "High Performance Data Engineering
+    Gunduz, and Geoffrey Fox, "[High Performance Data Engineering
     Everywhere", [Technical
     report](http://www.infomall.org/publications/Cylon.pdf) June
     30, 2020. 2020 IEEE International Conference on Smart Data Services
@@ -179,20 +179,20 @@ Students](#id.30j0zll)]
 26. [26.]Ahmet Uyar, Gurhan Gunduz, Supun
     Kamburugamuve, Pulasthi Wickramasinghe, Chathura Widanage, Kannan
     Govindarajan, Niranda Perera, Vibhatha Abeykoon, Selahattin Akkas,
-    Geoffrey Fox, "Twister2 Cross-Platform Resource Scheduler for Big
+    Geoffrey Fox, "[Twister2 Cross-Platform Resource Scheduler for Big
     Data", [Technical
     Report](http://www.infomall.org/publications/Basarm_2020_HPC_paper_3.pdf)
     June 30, 2020. 6th National High Performance Computing
     [Conference](http://www.basarim.org.tr/2020/doku.php?id=anasayfa)
     Basarim 2020, Ankara Yıldırım Beyazıt University, Ankara Turkey
     October 8-9, 2020
-27. [27.]Geoffrey Fox, "Deep Learning Based
+27. [27.]Geoffrey Fox, "[Deep Learning Based
     Time
     Evolution](http://www.infomall.org/publications/Summary-DeepLearningBasedTimeEvolution.pdf)"
     Technical Report June 8 2020,
     [ResearchGate](https://www.researchgate.net/publication/342014823_Deep_Learning_Based_Time_Evolution)
 28. [28.]Qian Lou, Bo Feng, Geoffrey Charles
-    Fox, Lei Jiang "Glyph: Fast and Accurately Training Deep Neural
+    Fox, Lei Jiang "[Glyph: Fast and Accurately Training Deep Neural
     Networks on Encrypted
     Data](http://www.infomall.org/publications/1911.07101.pdf)"
     Technical report November 2019 updated May 30, 2020.
@@ -204,22 +204,22 @@ Students](#id.30j0zll)]
     Chris J. Kuhlman, Jure Leskovec, Dustin Machi1, Madhav V. Marathe,
     Nataragan Meghanathan, Yasuo Miyasaki, Judy Qiu, Naren
     Ramakrishnan, S. S. Ravi, Ryan Rossi, Roc Sosic, Gregor von
-    Laszewski, "net.science: A Cyberinfrastructure for Sustained
+    Laszewski, "[net.science: A Cyberinfrastructure for Sustained
     Innovation in Network Science and
     Engineering](http://www.infomall.org/publications/CINES-Gateway20.pdf)"
     Technical Report May 18 2020
 30. [30.]Pete Beckman, Jack Dongarra, Nicola
     Ferrier, Geoffrey Fox, Terry Moore, Dan Reed, Micah Beck,
-    "Harnessing the Computing Continuum for Programming Our
+    "[Harnessing the Computing Continuum for Programming Our
     World](http://www.infomall.org/publications/paper_computing_continuum-2.pdf)",
-    Technical Report March 11 2019 published in "Fog Computing: Theory
+    Technical Report March 11 2019 published in "[Fog Computing: Theory
     and
     Practice](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119551713)"
     published by Wiley and edited by Albert Zomaya, Assad Abbas, Samee Khan,
     [DOI](https://doi.org/10.1002/9781119551713.ch7) 25 April
     2020
 31. [31.][JCS Kadupitiya, Geoffrey C. Fox and
-    Vikram Jadhao, "Simulating Molecular Dynamics with Large
+    Vikram Jadhao, "[Simulating Molecular Dynamics with Large
     Timesteps using Recurrent Neural
     Networks](http://www.infomall.org/publications/2004.06493.pdf)"
     arXiv:[2004.06493v2](https://arxiv.org/pdf/2004.06493.pdf)
@@ -228,7 +228,7 @@ Students](#id.30j0zll)]
     12 April 2020. [Revised](http://arxiv.org/abs/2004.06493v2), and
     [GitHub](https://github.com/softmaterialslab/RNN-MD)
     site.]
-32. [32.]Bokyoon Na, Geoffrey C Fox, "Object
+32. [32.]Bokyoon Na, Geoffrey C Fox, "[Object
     Classifications by Image Super-Resolution Preprocessing for
     Convolutional Neural Networks", Advances in Science, Technology and
     Engineering Systems Journal (ASTESJ) Volume 5, Issue 2, Page No
@@ -236,13 +236,13 @@ Students](#id.30j0zll)]
     [10.25046/aj050261](http://dx.doi.org/10.25046/aj050261)
     March 12 2020
 33. [33.]J. C. S. Kadupitiya, F. Sun, G. Fox,
-    and V. Jadhao, "Machine learning surrogates for molecular dynamics
+    and V. Jadhao, "[Machine learning surrogates for molecular dynamics
     simulations of soft
     materials](http://www.infomall.org/publications/Revision_JCS_2020.pdf),"
     *J. Comput. Sci.*, vol. 42, p. 101107, Apr. 2020 \[Online\]. Journal
     [link](http://www.sciencedirect.com/science/article/pii/S1877750319310609)
 34. [34.]JCS Kadupitiya, Geoffrey C. Fox, and
-    Vikram Jadhao "Abstract: L45.00002 :[ Recurrent Neural Networks
+    Vikram Jadhao "[Abstract: L45.00002 :[ Recurrent Neural Networks
     Based Integrators for Molecular Dynamics
     Simulations](Simulations.pdf)", at [Session
     L45:](http://meetings.aps.org/Meeting/MAR20/Session/L45.2)
@@ -251,19 +251,19 @@ Students](#id.30j0zll)]
 35. [35.]Aristeidis Tsaris, Jacob Balma, Murali
     Emani, Steve Farrell, Geoffrey C Fox, Yin Junqi, Thorsten Kurth,
     Abid Malik, Prabhat, Mallikarjun Shankar, Venkatram Vishwanath,
-    "Exploring Deep Learning for Science Benchmarks on DOE
+    "[Exploring Deep Learning for Science Benchmarks on DOE
     Supercomputers](http://www.infomall.org/publications/ecp_poster_benchmarks_2020.pdf)",
     Oak Ridge National Lab, Cray Inc., Argonne National Laboratory,
     Lawrence Berkeley National Laboratory, Brookhaven National
     Laboratory, Indiana University Bloomington, NVIDIA, insideHPC
     [article](https://insidehpc.com/2020/02/mlperf-hpc-working-group-seeks-participation/)
     and Exascale Computing Project Poster February 24, 2020
-36. [36.]Geoffrey Fox, and Shantenu Jha, "MLforCI and CIforML: Future
+36. [36.]Geoffrey Fox, and Shantenu Jha, "[MLforCI and CIforML: Future
     Cyberinfrastructure](http://www.infomall.org/publications/MLforCI%20and%20CIforML.pdf)"
     Technical Report February 23 2020
     [ResearchGate](https://www.researchgate.net/publication/339458571_MLforCI_and_CIforML_Future_Cyberinfrastructure)
 37. [37.]Geoffrey C. Fox, Gregor von Laszewski,
-    "Automated Big Data REST Service Creation in Support of Big Data
+    "[Automated Big Data REST Service Creation in Support of Big Data
     Applications](http://www.infomall.org/publications/IUfinalreport-NIST%20Award%2060NANB18D268.pdf)"
     Technical Report December 26, 2019
 38. [38.]Online Book: E222 Spring 2019[
@@ -302,7 +302,7 @@ Students](#id.30j0zll)]
     Fall 2019 73 pages]
 47. Xinyuan Huang, Geoffrey C. Fox, Sergey
     Serebryakov, Ankur Mohan, Pawel Morkisz, Debojyoti Dutta,
-    "Benchmarking Deep Learning for Time Series: Challenges and
+    "[Benchmarking Deep Learning for Time Series: Challenges and
     Directions](http://www.infomall.org/publications/StreamML_Workshop_MLPerf_DeepTS.pdf)",
     presented at Stream-ML
     [workshop](http://ipcc.soic.iu.edu/STREAM-ML/) at IEEE Big
@@ -311,7 +311,7 @@ Students](#id.30j0zll)]
 48. Vibhatha Abeykoon, Supun
     Kamburugamuve, Kannan Govindrarajan, Pulasthi Wickramasinghe, Chathura Widanage,
     Niranda Perera, Ahmet Uyar, Gurhan Gunduz, Selahattin Akkas, Gregor
-    Von Laszewski, and Geoffrey Fox, "Streaming Machine Learning
+    Von Laszewski, and Geoffrey Fox, "[Streaming Machine Learning
     Algorithms with Big Data
     Systems](http://www.infomall.org/publications/streaming_ml_v4.pdf)"
     with
@@ -321,7 +321,7 @@ Students](#id.30j0zll)]
     Data [Conference](http://bigdataieee.org/BigData2019/), Los
     Angeles CA December 10, 2019
 49. Thanh Nguyen, Tongbin Zhang, Geoffrey
-    Fox, Sisi Zeng, Ni Cao, Chuandi Pan, Jake Y. Chen, "Linking
+    Fox, Sisi Zeng, Ni Cao, Chuandi Pan, Jake Y. Chen, "[Linking
     Clinotypes to Phenotypes and Genotypes from Laboratory Test Results
     in Comprehensive Physical Exams](Revise.pdf)" submitted to
     MCBIOS 2019 Proceedings to be published in BMC Medical Informatics
@@ -329,7 +329,7 @@ Students](#id.30j0zll)]
 50. Supun Kamburugamuve, Geoffrey Fox,
     Pulasthi Wickramasinghe, Niranda Perera, Kannan Govindarajan,
     Vibhatha Abeykoon, Chathura Widanage, Ahmet Uyar, Gurhan Gunduz,
-    Selahattin Akkas, "Twister2 Status October
+    Selahattin Akkas, "[Twister2 Status October
     2019](http://www.infomall.org/publications/Twister2-Status-October2019.pdf)",Technical
     Report, October 10, 2019
 51. Victor Berger, Mingze Xu, Mohanad
@@ -342,13 +342,13 @@ Students](#id.30j0zll)]
     10.1109/JSTARS.2019.2930920
 52. Victor Berger, John Paden, Mohanad
     Al-Ibadi, David Crandall, Geoffrey Fox, Anjali Pare, Maryam
-    Rahnemoonfar, Mingze Xu, Masoud Yari, "Comparison of 2-D and 3-D
+    Rahnemoonfar, Mingze Xu, Masoud Yari, "[Comparison of 2-D and 3-D
     ice-bottom tracking
     algorithms](https://www.igsoc.org/symposia/2019/stanford/proceedings/procsfiles/procabstracts_75.html#A3160),"
     in INTERNATIONAL GLACIOLOGICAL SOCIETY Five Decades of
     Radioglaciology, Stanford, California, USA, 2019.
 53. Yuchen Wang, David Crandall, Mingze
-    Xu, Lora Koenig, John Paden, Geoffrey Fox, "Automatic detection of
+    Xu, Lora Koenig, John Paden, Geoffrey Fox, "[Automatic detection of
     snow layers in radar
     images](https://www.igsoc.org/symposia/2019/stanford/proceedings/procsfiles/procabstracts_75.html#A3072)",
     International Glaciological Society International Symposium on Five
@@ -362,20 +362,20 @@ Students](#id.30j0zll)]
     on Large-Scale Experiment-in-the-Loop-Computing (XLOOP) SC19
     [Conference](https://sc19.supercomputing.org/), Colorado
     Convention Center, November 18, 2019
-55. Geoffrey Fox and Shantenu Jha, "Next
+55. Geoffrey Fox and Shantenu Jha, "[Next
     Generation Cyberinfrastructure for BDEC](BDEC.pdf)", BDEC2
     [Meeting](https://www.exascale.org/bdec/meeting/sandiego)
     October 15-17, 2019, San Diego,
     California,
 56. Geoffrey Fox and Shantenu Jha,
-    "Understanding ML driven HPC: Applications and
+    "[Understanding ML driven HPC: Applications and
     Infrastructure](http://www.infomall.org/publications/escience19-vision.rc3.pdf)",
     15th International
     [Conference](https://escience2019.sdsc.edu/) eScience 2019,
     September 24-27, 2019, San Diego, California. Arxiv
     [1909.02363](https://arxiv.org/abs/1909.02363)
 57. Geoffrey Fox and Shantenu Jha,
-    "Learning Everywhere: A Taxonomy for the Integration of Machine
+    "[Learning Everywhere: A Taxonomy for the Integration of Machine
     Learning and
     Simulations](http://www.infomall.org/publications/ieeetaxonomyv2.pdf)",
     15th International
@@ -385,25 +385,25 @@ Students](#id.30j0zll)]
 58. Pulasthi Wickramasinghe, Niranda
     Perera, Supun Kamburugamuve, Kannan Govindarajan, Vibhatha Abeykoon,
     Chathura Widanage, Ahmet Uyar, Gurhan Gunduz, Selahattin Akkas,
-    Geoffrey Fox, "High-Performance Iterative Dataflow Abstractions
+    Geoffrey Fox, "[High-Performance Iterative Dataflow Abstractions
     in Twister2:TSet](Twister2_TSet.pdf)",Technical Report,
     September 2, 2019
 59. Fanbo Sun, JCS Kadupitiya, Geoffrey
-    Fox, Vikram Jadhao, "Machine Learning Molecular Dynamics
+    Fox, Vikram Jadhao, "[Machine Learning Molecular Dynamics
     Simulations for Enhanced Student
     Learning](http://www.infomall.org/publications/eduHPC19_IEEE3.pdf)",
     Technical Report September 5, 2019
 60. Vibhatha Abeykoon, Geoffrey Fox, Minje
     Kim, Saliya Ekanayake, Supun Kamburugamuve, Kannan Govindarajan,
     Pulasthi Wickramasinghe, Niranda Perera, Chathura Widanage, Ahmet
-    Uyar, Gurhan Gunduz, [Selahattin] Akkas, "Stochastic
+    Uyar, Gurhan Gunduz, [Selahattin] Akkas, "[Stochastic
     Gradient Descent Based Support Vector Machines Training Optimization
     on Big Data and HPC
     Frameworks](http://www.infomall.org/publications/hpml_extended_psgdsvm.pdf)",
     Technical Report August 7, 2019. Updated version June 28, 2020
     published in [](https://onlinelibrary.wiley.com/doi/10.1002/cpe.6292)
 61. Hyungro Lee and Geoffrey C. Fox,
-    "Big Data Benchmarks of High-Performance Storage Systems on
+    "[Big Data Benchmarks of High-Performance Storage Systems on
     Commercial Bare Metal
     Clouds](http://www.infomall.org/publications/IEEE_CLOUD_2019___Bare_Metal_Cloud_camera_ready.pdf)",
     Proceedings of IEEE International Conference on Cloud Computing
@@ -411,18 +411,18 @@ Students](#id.30j0zll)]
     2019](http://conferences.computer.org/cloud/2019)) Jul 8,
     2019 - Jul 13, 2019 - Milan , Italy
 62. Mahzad Khoshlessan, Ioannis
-    Paraskevakos, Geoffrey C. Fox, Shantenu Jha, Oliver Beckstein, "Parallel Performance of Molecular
+    Paraskevakos, Geoffrey C. Fox, Shantenu Jha, Oliver Beckstein, "[Parallel Performance of Molecular
     Dynamics Trajectory
     Analysis](http://www.infomall.org/publications/Olivermain.pdf)",
     Technical Report June 21 2019
-63. [Geoffrey Fox, "
-64. Geoffrey Fox, "Perspectives on
+63. [Geoffrey Fox, "[
+64. Geoffrey Fox, "[Perspectives on
     High-Performance Computing in a Big Data
     World](http://www.infomall.org/publications/ACM-SIG-Portrait-Keynote-Talk-Fox-HPDC2019.pdf)"
     or with [frontispiece](Abstractandfrontispiece.pdf), ACM HPDC
     2019 The 28th International Symposium on High-Performance Parallel
     and Distributed Computing, Phoenix, Arizona, USA - June 27, 2019.
-    This describes the award talk "Perspectives on High-Performance
+    This describes the award talk "[Perspectives on High-Performance
     Computing in a Big Data World](Presentation.pptx)" using
     video
     [nugget](http://www.infomall.org/presentations/nancoconfinement_movie.avi).
@@ -438,7 +438,7 @@ Students](#id.30j0zll)]
 65. Geoffrey Fox, Vibhatha Abeykoon,
     Selahattin Akkas, Kannan Govindarajan, Gurhan Gunduz, Supun
     Kamburugamuve, Niranda Perera, Ahmet Uyar, Pulasthi Wickramasinghe,
-    Chathura Widanage, "Twister2 Demonstrations for
+    Chathura Widanage, "[Twister2 Demonstrations for
     BDEC2](Demonstrations.pdf)", BDEC2 [Meeting
     ](https://www.exascale.org/bdec/meeting/poznan)May 14-16 2019,
     Poznan Poland
@@ -460,13 +460,13 @@ Students](#id.30j0zll)]
     Systems.[HPBD&IS2019](http://hpbdis.csp.escience.cn/dct/page/1)
     Shenzhen, China May 9-11 201
 68. C.-H. Hsu, G. Fox, G. Min, and S.
-    Sharma, "Advances in big data programming, system software and HPC
+    Sharma, "[Advances in big data programming, system software and HPC
     convergence," J. Supercomput., vol. 75, no. 2, pp. 489--493, Feb.
     2019 [DOI](https://doi.org/10.1007/s11227-018-2706-x)
 69. Geoffrey Fox, James A. Glazier, JCS
     Kadupitiya, Vikram Jadhao, Minje Kim, Judy Qiu, James P. Sluka,
     Endre Somogyi, Madhav Marathe, Abhijin Adiga, Jiangzhuo Chen, Oliver
-    Beckstein, and Shantenu Jha, "Learning Everywhere:, Pervasive Machine Learning for Effective
+    Beckstein, and Shantenu Jha, "[Learning Everywhere:, Pervasive Machine Learning for Effective
     High-Performance
     Computation](http://www.infomall.org/publications/Learning_Everywhere_Summary.pdf)", accepted for HPBDC
     [workshop](http://web.cse.ohio-state.edu/~lu.932/hpbdc2019/program.html)
@@ -476,12 +476,12 @@ Students](#id.30j0zll)]
 70. Geoffrey Fox, James A. Glazier, JCS
     Kadupitiya, Vikram Jadhao, Minje Kim, Judy Qiu, James P. Sluka,
     Endre Somogyi, Madhav Marathe, Abhijin Adiga, Jiangzhuo Chen, Oliver
-    Beckstein, and Shantenu Jha, "Learning Everywhere:, Pervasive Machine Learning for Effective
+    Beckstein, and Shantenu Jha, "[Learning Everywhere:, Pervasive Machine Learning for Effective
     High-Performance Computation: Application
     Background](http://www.infomall.org/publications/Learning_Everywhere.pdf)",
     Technical, Report February 16 2019
 71. JCS Kadupitiya, Geoffrey C. Fox, and
-    Vikram Jadhao, "Machine Learning for Auto-tuning of Simulation
+    Vikram Jadhao, "[Machine Learning for Auto-tuning of Simulation
     Parameters in Car-Parrinello Molecular
     Dynamics](http://meetings.aps.org/Meeting/MAR19/Session/K21.10)",
     Bulletin of the American Physical Society for [March
@@ -489,7 +489,7 @@ Students](#id.30j0zll)]
     APS March 6, 2019; Boston, Massachusetts
 72. Supun Kamburugamuve, Kannan
     Govindarajan, Pulasthi Wickramasinghe, Vibhatha Abeykoon, Geoffrey
-    Fox, "Twister2: Design of a Big Data
+    Fox, "[Twister2: Design of a Big Data
     Toolkit](http://www.infomall.org/publications/twister2_design_big_data_toolkit_revised.pdf)"
     in Concurrency and Computation, Practice and Experience Special
     issue for, [EXAMPI
@@ -498,20 +498,20 @@ Students](#id.30j0zll)]
     [SC17](https://sc17.supercomputing.org/), conference, Denver CO 2017. Published as
     [https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.5189](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.5189).
 73. Geoffrey Fox and Gregor von Laszewski,
-    "E534 Big Data Algorithms and Applications
+    "[E534 Big Data Algorithms and Applications
     Class](http://www.infomall.org/publications/E534-bigdata-applicationJan10-2019.epub)"
     as epub or
     [PDF](http://www.infomall.org/publications/E534-bigdata-applicationJan10-2019.pdf)
     Class Book Fall 2018
 74. JCS Kadupitiya, Geoffrey C. Fox, and
-    Vikram Jadhao, "Machine learning for performance enhancement of
+    Vikram Jadhao, "[Machine learning for performance enhancement of
     molecular dynamics
     simulations](http://www.infomall.org/publications/ICCS8.pdf)",
     Technical Report December 28, 2018;, International Conference on Computational
     Science [ICCS2019
     ](https://www.iccs-meeting.org/iccs2019/)Faro, Algarve,
     Portugal 12-14 June 2019.
-75. Bokyoon Na and Geoffrey Fox, "Object
+75. Bokyoon Na and Geoffrey Fox, "[Object
     Detection by a Super-Resolution Method and a Convolutional Neural
     Networks" in 4th [Special
     Session](http://cci.drexel.edu/bigdata/bigdata2018/SpecialSession.html#SpecialSession1)
@@ -522,28 +522,28 @@ Students](#id.30j0zll)]
     Qiu,"Anomaly Detection over Streaming Data:Indy
     500](Report.pdf)", E500 Class report December 2018.
 77. [Dilshan Niranda Perera
-    "
-78. Judy Qiu, "Real-Time Anomaly
+    "[
+78. Judy Qiu, "[Real-Time Anomaly
     Detection from Edge to
     HPC-Cloud](http://www.infomall.org/publications/Qiu_BDEC2_WP.pdf)",
     white paper at, [BDEC2](https://www.exascale.org/bdec/meeting/indiana)
-    "Big Data and Extreme-Scale Computing", Workshop, Bloomington,
+    "[Big Data and Extreme-Scale Computing", Workshop, Bloomington,
     Indiana November 28 - 30, 2018
 79. Oliver Beckstein, Geoffrey Fox,
-    Shantenu Jha, "Convergence of data generation and analysis in the
+    Shantenu Jha, "[Convergence of data generation and analysis in the
     biomolecular simulation
     community](http://www.infomall.org/publications/Beckstein-Fox-Jha_BDEC2_WP_0.pdf)",
     white paper at, [BDEC2](https://www.exascale.org/bdec/meeting/indiana)
-    "Big Data and Extreme-Scale Computing", Workshop, Bloomington,
+    "[Big Data and Extreme-Scale Computing", Workshop, Bloomington,
     Indiana November 28 - 30, 2018
-80. Geoffrey Fox, "Computational and
+80. Geoffrey Fox, "[Computational and
     Data Intelligence linked in the Intelligent Aether for
     Applications](http://www.infomall.org/publications/Fox_BDEC2_WP.pdf)",
     white paper at, [BDEC2](https://www.exascale.org/bdec/meeting/indiana)
-    "Big Data and Extreme-Scale Computing", Workshop, Bloomington,
+    "[Big Data and Extreme-Scale Computing", Workshop, Bloomington,
     Indiana November 28 - 30, 2018
 81. JCS Kadupitiya, Geoffrey C. Fox and
-    Vikram Jadhao, "Machine Learning for Parameter Auto-tuning in
+    Vikram Jadhao, "[Machine Learning for Parameter Auto-tuning in
     Molecular Dynamics Simulations: Efficient Dynamics of Ions near
     Polarizable
     Nanoparticles](http://www.infomall.org/publications/Manuscript.IJHPCA.Nov2018.pdf)",
@@ -554,17 +554,17 @@ Students](#id.30j0zll)]
     David Crandall, Gregor von Laszewski), Kansas (John Paden), Rutgers
     (Shantenu Jha), Stony Brook (Fusheng Wang), University of Virginia
     (Madhav Marathe, Anil Vullikanti) and Utah (Thomas Cheatham);
-    "Contributions to High-Performance Big Data
+    "[Contributions to High-Performance Big Data
     Computing](http://www.infomall.org/publications/SPIDALPaperSept2018.pdf)",
     Technical Report September 30, 2018 with June 21, 2019
     [Update](http://www.infomall.org/publications/FormattedSPIDALPaperJune2019.pdf).
-    Published as a chapter in "Future Trends of HPC in a Disruptive
+    Published as a chapter in "[Future Trends of HPC in a Disruptive
     Scenario" Editors: Grandinetti, L., Joubert, G.R., Michielsen, K.,
     Mirtaheri, S.L., Taufer, M., Yokota, R., IOS Press Volume 34 of
     Advances in Parallel Computing, ISBN print 978-1-61499-998-0,
     SEptember 2019
 83. JCS Kadupitiya, Nicholas Brunk, Sohile
-    Ali, Geoffrey C. Fox, Vikram Jadhao, "Nanosphere Electrostatics
+    Ali, Geoffrey C. Fox, Vikram Jadhao, "[Nanosphere Electrostatics
     Lab](https://nanohub.org/resources/28474)" tool on
     [nanoHUB](https://nanohub.org/),
     doi:[10.4231/D34X54J88](http://dx.doi.org/10.4231/D34X54J88)
@@ -576,39 +576,39 @@ Students](#id.30j0zll)]
     32](https://software.intel.com/sites/default/files/parallel-universe-issue-32.pdf),
     March 2018]
 85. Bingjing Zhang, Bo Peng, Langshi Chen,
-    Ethan Li, Yiming Zhou, Judy Qiu, "Introduction to Harp: when Big
+    Ethan Li, Yiming Zhou, Judy Qiu, "[Introduction to Harp: when Big
     Data Meets
     HPC](http://www.infomall.org/publications/Harp-Report.pdf)"
     Internal Report on Harp June 2017
 86. JPAC collaboration: J.A.
     Silva-Castro, C. Fernandez-Ramirez, M. Albaladejo, I.V. Danilkin, A.
     Jackura, V. Mathieu, J. Nys, A. Pilloni, A.P. Szczepaniak, G. Fox,
-    "Regge phenomenology of the N\* and Delta\*
+    "[Regge phenomenology of the N\* and Delta\*
     poles](http://www.infomall.org/publications/1809.01954.pdf)",
     September 6, 2018, arXiv:[1809.01954
     \[hep-ph\]](https://arxiv.org/abs/1809.01954) Physical Review
     D, 2019
 87. John Paden, Victor Berger, Mohanad
     Al-Ibadi, Shane Chu, Mingze Xu, David Crandall, Geoffrey Fox,
-    "Subglacial bed topography using machine learning and
+    "[Subglacial bed topography using machine learning and
     geostatistical analysis applied to 2D and 3D radar
     sounding](2018.pdf)", abstract for [AGU Fall
     Meeting](https://fallmeeting.agu.org/2018/) December 10-14
     2018 Washington DC
 88. John Paden; Mingze Xu; Jordan Sprick;
     Sravya Athinarapu; David Crandall; David O Burgess; Martin J Sharp;
-    Geoffrey C Fox; Carl Leuschen, "3D Imaging and Automated Ice
+    Geoffrey C Fox; Carl Leuschen, "[3D Imaging and Automated Ice
     Bottom Tracking of Canadian Arctic Archipelago Ice Sounding
     Data](http://www.infomall.org/publications/Paden_C13C_0846_3D_Imaging.pdf)",
     Poster, American Geophysical Union (AGU) [Fall
     Meeting](https://fallmeeting.agu.org/2016/), 2016
 89. Gregor von Laszewski Editor
-    "Technology Snapshots Volume
+    "[Technology Snapshots Volume
     1](http://www.infomall.org/publications/E616Papers_Vol1.pdf)",
     Spring 2017 Intelligent Systems Engineering E616 Student Reports
     printed August 10 2018
 90. Gregor von Laszewski Editor
-    "Technology Snapshots Volume
+    "[Technology Snapshots Volume
     2](http://www.infomall.org/publications/E616Papers_Vol2.pdf)",
     Spring 2017 Intelligent Systems Engineering E616 Student Reports
     printed August 10 2018
@@ -618,7 +618,7 @@ Students](#id.30j0zll)]
     Heroux, Y Ishikawa, K Keahey, D Keyes, W Kramer, J-F Lavignon, Y Lu,
     S Matsuoka, B Mohr, D Reed, S Requena, J Saltz, T Schulthess, R
     Stevens, M Swany, A Szalay, W Tang, G Varoquaux, J-P Vilotte, R
-    Wisniewski, Z Xu, I Zacharov, "Big data and extreme-scale
+    Wisniewski, Z Xu, I Zacharov, "[Big data and extreme-scale
     computing: Pathways to Convergence-Toward a shaping strategy for a
     future software and data ecosystem for scientific
     inquiry](http://journals.sagepub.com/doi/pdf/10.1177/1094342018778123)",
@@ -627,7 +627,7 @@ Students](#id.30j0zll)]
     [DOI](https://doi.org/10.1177/1094342018778123)
 92. [Wo Chang, Geoffrey Fox, and [NIST
     Big Data Public Working Group](https://bigdatawg.nist.gov/):
-    Volume 3. "NIST Big Data Interoperability Framework: Volume 3,
+    Volume 3. "[NIST Big Data Interoperability Framework: Volume 3,
     Use Cases and General
     Requirements](http://www.infomall.org/publications/NIST.SP.1500-3r1.pdf)"
     NIST technical report N[IST SP
@@ -635,7 +635,7 @@ Students](#id.30j0zll)]
     2018]
 93. [Wo Chang, Gregor von Laszewski, and
     [NIST Big Data Public Working
-    Group](https://bigdatawg.nist.gov/): Volume 8. "NIST Big
+    Group](https://bigdatawg.nist.gov/): Volume 8. "[NIST Big
     Data Interoperability Framework: Volume 8, Reference Architecture
     Interfaces](http://www.infomall.org/publications/NIST.SP.1500-9.pdf)"
     NIST technical report [NIST SP
@@ -643,34 +643,34 @@ Students](#id.30j0zll)]
     2018]
 94. JPAC Collaboration, J. Nys, A. N.
     Hiller Blin, V. Mathieu, C. Fernández-Ramírez, A. Jackura, A.
-    Pilloni, J. Ryckebusch, A. P. Szczepaniak, G. Fox, "Global
+    Pilloni, J. Ryckebusch, A. P. Szczepaniak, G. Fox, "[Global
     analysis of charge exchange meson production at high
     energies](http://www.infomall.org/publications/1806.01891.pdf)"
     Technical Report June 5 2018.
     [Arxiv](https://arxiv.org/abs/1806.01891)
 95. Hamid Kamangir, Maryam Rahnemoonfar,
-    Dugan Dobbs, John Paden, Geoffrey Fox, "DEEP HYBRID WAVELET
+    Dugan Dobbs, John Paden, Geoffrey Fox, "[DEEP HYBRID WAVELET
     NETWORK FOR ICE BOUNDARY DETECTION IN RADAR
     IMAGERY](http://www.infomall.org/publications/deep-hybrid-wavelet.pdf)",
     in IEEE International Geoscience and Remote Sensing
     [Symposium](https://www.igarss2018.org/) (IGARSS), 2018
 96. Fugang Wang, Gregor von Laszewski,
     Timothy Whitson, Geoffrey C. Fox, Thomas R. Furlani, Robert L.
-    DeLeon, Steven M. Gallo, "Evaluating the Scientific Impact of
+    DeLeon, Steven M. Gallo, "[Evaluating the Scientific Impact of
     XSEDE](http://www.infomall.org/publications/pap168s3-file1.pdf)",
     PEARC18 [conference](https://www.pearc18.pearc.org/)
     Technical Program, July 22-26, 2018 Pittsburgh PA. Older version
     [here](http://www.infomall.org/publications/vonLaszewski-scimp-pearc18.pdf).
 97. Supun Kamburugamuve, Pulasthi
     Wickramasinghe, Kannan Govindarajan, Ahmet Uyar, Gurhan Gunduz,
-    Vibhatha Abeykoon, Geoffrey Fox, "Twister:Net - Communication
+    Vibhatha Abeykoon, Geoffrey Fox, "[Twister:Net - Communication
     Library for Big Data Processing in HPC and Cloud
     Environments](http://www.infomall.org/publications/twister_net.pdf)",
     Proceedings of Cloud 2018
     [Conference](http://conferences.computer.org/cloud/2018/)
     July 2-7 2018, San Francisco.
 98. Hyungro Lee, Kumar Satyam and
-    Geoffrey C. Fox, "Evaluation of Production Serverless Computing
+    Geoffrey C. Fox, "[Evaluation of Production Serverless Computing
     Environments](http://www.infomall.org/publications/Evaluation_of_Production_Serverless_Computing_Environments.pdf)",Technical
     report April 3 2018
     [DOI](http://dx.doi.org/10.13140/RG.2.2.28642.84165), Third
@@ -679,20 +679,20 @@ Students](#id.30j0zll)]
     July 2 2018 at Cloud 2018
     [Conference](http://conferences.computer.org/cloud/2018/)
     July 2-7 2018, San Francisco
-99. Hyungro Lee, Geoffrey C. Fox, "Big
+99. Hyungro Lee, Geoffrey C. Fox, "[Big
     Data Benchmarks on Bare Metal
     Cloud](http://www.infomall.org/publications/Big_Data_Benchmark_on_Bare_Metal_Clouds.pdf)"
     Technical Report May 31 2018.
 100. JPAC Collaboration: V. Mathieu, J.
      Nys, A. H. Blin, C. Fernandez-Ramirez, A. Jackura, M.
      Mikhasenko, V. Pauk, A. Pilloni, A. P. Szczepaniak, and G. Fox,
-     "Structure of Pion Photoproduction
+     "[Structure of Pion Photoproduction
      Amplitudes](http://www.infomall.org/publications/structure-pion-photoproduction.pdf)"
      Technical Report May 25 2018.
      [Arxiv](https://arxiv.org/abs/1806.08414) June 21, 2018
 101. JPAC Collaboration: V. Mathieu, J.
      Nys, C. Fernández-Ramírez, A. Jackura, A. Pilloni, N. Sherrill, A.
-     Szczepaniak, G. Fox, "Vector Meson Photoproduction with a
+     Szczepaniak, G. Fox, "[Vector Meson Photoproduction with a
      Linearly Polarized
      Beam](http://www.infomall.org/publications/1802.09403.pdf)",
      26 Feb 2018 [Arxiv](https://arxiv.org/abs/1802.09403).
@@ -713,7 +713,7 @@ Students](#id.30j0zll)]
      Szalay, W. Tang, G. Varoquaux, J.-P. Vilotte, R. Wisniewski, Z. Xu,
      and, I. Zacharov
 103. Lei Jiang, Langshi Chen and Judy
-     Qiu, "Performance Characterization of Multi-threaded Graph
+     Qiu, "[Performance Characterization of Multi-threaded Graph
      Processing Applications on Many-Integrated-Core
      Architecture](Architecture.pdf)", 2018 IEEE International
      [Symposium](http://www.ispass.org/ispass2018/) on
@@ -722,14 +722,14 @@ Students](#id.30j0zll)]
 104. Bo Peng, Bingjing Zhang, Langshi
      Chen, Mihai Avram, Robert Henschel, Craig Stewart, Shaojuan Zhu,
      Emily Mccallum, Lisa Smith, Tom Zahniser, Jon Omer, Judy Qiu,
-     "HarpLDA+: Optimizing Latent Dirichlet Allocation for Parallel
+     "[HarpLDA+: Optimizing Latent Dirichlet Allocation for Parallel
      Efficiency](http://www.infomall.org/publications/Bigdata_HarpLDA_.pdf)",
      the IEEE Big Data 2017
      [conference](http://cci.drexel.edu/bigdata/bigdata2017/),
      Boston, MA, USA, December 11-14, 2017.
 105. Langshi Chen, Bo Peng, Sabra Ossen,
      Anil Vullikanti, Madhav Marathe, Lei Jiang, Judy Qiu,[ 
-     "High-Performance Massive Subgraph
+     "[High-Performance Massive Subgraph
      Counting using Pipelined Adaptive-Group
      Communication](https://arxiv.org/abs/1804.09764)", Technical
      Report, April 25 2018.
@@ -737,14 +737,14 @@ Students](#id.30j0zll)]
      Sravya Athinarapu, Victor Berger, Theresa Stumpf, John Paden, Carl
      Leuschen, Fernando Rodríguez, Mingze Xu, David Crandall, Geoffrey
      Fox, David Burgess, Martin Sharp, Luke Copland, and Wesley Van
-     Wychen, "Crossover Analysis and Automated Layer-Tracking
+     Wychen, "[Crossover Analysis and Automated Layer-Tracking
      Assessment of the Extracted DEM of the Basal Topography of the
      Canadian Arctic Archipelago Ice-Caps](Al-Ibadi.pdf)", Poster
      presentation at the 2018 IEEE Radar
      [Conference](http://www.radarconf18.org/), Oklahoma City,
      USA,, April 23-27, 2018.
 107. Mingze Xu, Chenyou Fan, John Paden,
-     Geoffrey Fox and David Crandall, "Multi-Task Spatiotemporal
+     Geoffrey Fox and David Crandall, "[Multi-Task Spatiotemporal
      Neural Networks for Structured Surface
      Reconstruction](http://www.infomall.org/publications/ice2018wacv-final.pdf)",
      2018 IEEE Winter Conference on Applications of Computer Vision
@@ -752,13 +752,13 @@ Students](#id.30j0zll)]
      ]March 12-14, 2018 at Harvey's Casino in
      Lake Tahoe, NV/CA
 108. Hyungro Lee, Advisor: Geoffrey C.
-     Fox, "Event-driven Computing on HPC: Experiments with Scientific
+     Fox, "[Event-driven Computing on HPC: Experiments with Scientific
      Applications](http://www.infomall.org/publications/Serverless_on_HPC___RIKEN_AICS_Poster.pdf)"
      RIKEN AICS HPC Youth Workshop FY2017 Feb 7-8 2018, AICS
      International Symposium in KOBE, JAPAN.
 109. Ioannis Paraskevakos, Andre Luckow,
      George Chantzialexiou, Mahzad Khoshlessan, Oliver Beckstein,
-     Geoffrey C. Fox, Shantenu Jha, "Task-parallel Analysis of
+     Geoffrey C. Fox, Shantenu Jha, "[Task-parallel Analysis of
      Molecular Dynamics
      Trajectories](http://www.infomall.org/publications/main.pdf)",
      Technical Report 23 January 2018
@@ -768,7 +768,7 @@ Students](#id.30j0zll)]
      Parallel Processing, August 13-16, 2018, University of Oregon,
      Eugene, Oregon, USA
 110. Victor Berger, Mingze Xu, David
-     Crandall, John Paden, Geoffrey C. Fox, "AUTOMATED TRACKING OF 2D
+     Crandall, John Paden, Geoffrey C. Fox, "[AUTOMATED TRACKING OF 2D
      AND 3D ICE RADAR IMAGERY USING VITERBI AND
      TRW-S](http://www.infomall.org/publications/20180109042829_276176_4106.pdf)",
      Technical Report January 9, 2018.
@@ -776,33 +776,33 @@ Students](#id.30j0zll)]
      in IEEE International Geoscience and Remote Sensing
      [Symposium](https://www.igarss2018.org/) (IGARSS), 2018
 111. Hamid Kamangir, Maryam Rahnemoonfar,
-     Dugan Dobbs, John Paden, Geoffrey Fox, "DETECTING ICE LAYERS IN
+     Dugan Dobbs, John Paden, Geoffrey Fox, "[DETECTING ICE LAYERS IN
      RADAR IMAGES WITH DEEP
      LEARNING](http://www.infomall.org/publications/detecting-ice-layers.pdf)",
      Technical Report January 9, 2018
 112. Kadupitiya Kadupitige,
-     "Intersection of HPC and Machine
+     "[Intersection of HPC and Machine
      Learning](learning.pdf)", Final Report of Independent Study
      December 26, 2017
 113. [Kadupitiya Kadupitige,
-     "Performance enhancement of Ionic structure in liquids confined
+     "[Performance enhancement of Ionic structure in liquids confined
      by dielectric interfaces (A nanoconfinement
      framework)](2017.pdf)", Final Report on Semester research,
      December 26, 2017]
 114. Kadupitige Kadupitiya, Suresh Marru,
-     Geoffrey C. Fox, Vikram Jadhao, "Ions in
+     Geoffrey C. Fox, Vikram Jadhao, "[Ions in
      Nanoconfinement](https://nanohub.org/resources/27691)" tool
      on [nanoHUB](https://nanohub.org/),
      doi:[10.4231/D3T14TR83](http://dx.doi.org/10.4231/D3T14TR83)[
      21 December 2017]
 115. Andrew J. Younge, Shantenu Jha, and
-     Geoffrey C. Fox, "HPC and Big Data Convergence for Extreme
+     Geoffrey C. Fox, "[HPC and Big Data Convergence for Extreme
      Heterogeneous
      Systems](http://www.infomall.org/publications/18-bds-vc-ascr-whitepaper.pdf)",
      December 1, 2017
 116. Supun Kamburugamuve, Kannan
      Govindarajan, Pulasthi Wickramasinghe, Vibhatha Abeykoon, Geoffrey
-     Fox, "Twister2: Design of a Big Data
+     Fox, "[Twister2: Design of a Big Data
      Toolkit](http://www.infomall.org/publications/twister2_design_big_data_toolkit.pdf)"
      in, [EXAMPI
      2017](https://sites.google.com/view/exampi2017/home) workshop
@@ -812,7 +812,7 @@ Students](#id.30j0zll)]
 117. J. Nys, V. Mathieu, C.
      Fernández-Ramírez, A. Jackura, M. Mikhasenko, A. Pilloni, N.
      Sherrill, J. Ryckebusch, A. P. Szczepaniak, G. Fox (JPAC
-     Collaboration), "Features of pi Delta Photoproduction at High
+     Collaboration), "[Features of pi Delta Photoproduction at High
      Energies](http://www.infomall.org/publications/features-photoproduction-high.pdf)",
      Technical report 7 November 2017
      [Arxiv](https://arxiv.org/abs/1710.09394v2).[ Published
@@ -820,7 +820,7 @@ Students](#id.30j0zll)]
      Letters B, Volume 779, 10 April 2018, Pages 77-81
 118. Kannan Govindarajan, Supun
      Kamburugamuve, Pulasthi Wickramasinghe, Vibhatha Abeykoon, Geoffrey
-     Fox, "Task Scheduling in Big Data - Review, Research:
+     Fox, "[Task Scheduling in Big Data - Review, Research:
      Challenges, and
      Prospects](http://www.infomall.org/publications/ICoAC_179_FinalCopy.pdf)"
      Technical Report October 31 2017 published in 9th INTERNATIONAL
@@ -829,18 +829,18 @@ Students](#id.30j0zll)]
      Campus, Chennai
 119. Langshi Chen, Bo Peng, Zhao Zhao,
      Saliya Ekanayake, Anil Vullikanti, Madhav Marathe, Shaojuan Zhu,
-     Emily Mccallum, Lisa Smith, Lei Jiang, Judy Qiu, "A New
+     Emily Mccallum, Lisa Smith, Lei Jiang, Judy Qiu, "[A New
      Pipelined Adaptive-Group Communication for Large-Scale Subgraph
      Counting](http://www.infomall.org/publications/Subgraph.pdf)",
      Technical Report October 22 2017
 120. Indiana University (Fox, Qiu,
      Crandall, von Laszewski, Rutgers (Jha), Virginia Tech (Marathe),
      Kansas (Paden), Stony Brook (Wang), Arizona State (Beckstein), Utah
-     (Cheatham), "Summary of NSF 1443054: CIF21 DIBBs: Middleware and
+     (Cheatham), "[Summary of NSF 1443054: CIF21 DIBBs: Middleware and
      High Performance Analytics Libraries for Scalable Data
      Science](http://www.infomall.org/publications/SPIDALSummary.pdf)",
      September 23 2017.
-121. Geoffrey Fox, "Special Issue on
+121. Geoffrey Fox, "[Special Issue on
      12th International Workshop on Java Technologies for Real-Time and
      Embedded Systems
      JTRES2014](http://www.infomall.org/publications/JTRES2014SpecialIssue.pdf)",
@@ -850,12 +850,12 @@ Students](#id.30j0zll)]
      25 November 2017
 122. Judy Qiu, Supun Kamburugamuve,
      Hyungro Lee, Jerome Mitchell, Rebecca Caldwelly, Gina Bullockz,
-     Linda Hayden, "Teaching, Learning and Collaborating through Cloud
+     Linda Hayden, "[Teaching, Learning and Collaborating through Cloud
      Computing Online
      Classes](http://www.infomall.org/publications/cloud_mooc.pdf)",
      technical report September 2017.
 123. Supun Kamburugamuve, Karthik
-     Ramasamy, Martin Swany, Geoffrey Fox, "Low latency stream
+     Ramasamy, Martin Swany, Geoffrey Fox, "[Low latency stream
      processing: Apache Heron with Infiniband & Intel
      Omni-Path](http://www.infomall.org/publications/Heron_Infiniband.pdf)",
      technical report September 2017. To be presented at UCC
@@ -864,19 +864,19 @@ Students](#id.30j0zll)]
      Texas December 5-8, 2017.
 124. Zhao Zhao, Langshi Chen, Mihai
      Avram, Meng Li, Guanying Wang, Ali Butt, Maleq Khan, Madhav
-     Marathe, Judy Qiu, Anil Vullikanti, "Finding and counting
+     Marathe, Judy Qiu, Anil Vullikanti, "[Finding and counting
      tree-like subgraphs using
      MapReduce](http://www.infomall.org/publications/tmscssi_2017_harp_sahad.pdf)",
      technical report, August 2017.
 125. JPAC Collaboration: V. Mathieu, J.
      Nys, A. Pilloni, C. Fernández-Ramírez, A. Jackura, M.
-     Mikhasenko, V. Pauk, A. P. Szczepaniak, G. Fox, "Analyticity
+     Mikhasenko, V. Pauk, A. P. Szczepaniak, G. Fox, "[Analyticity
      Constraints for Hadron Amplitudes: Going High to Heal Low Energy
      Issues](http://www.infomall.org/publications/1708.07779v1.pdf)",
      25 August 2017,
      [arXiv:1708.07779](https://arxiv.org/abs/1708.07779)
 126. Geoffrey C. Fox, Vatche Ishakian,
-     Vinod Muthusamy, Aleksander Slominski, "Status of Serverless
+     Vinod Muthusamy, Aleksander Slominski, "[Status of Serverless
      Computing and Function-as-a-Service(FaaS) in Industry and
      Research](http://www.infomall.org/publications/WhitepaperReportOnWorkshopServerlessPanel.pdf)",
      Report from workshop and panel at the First International Workshop
@@ -886,13 +886,13 @@ Students](#id.30j0zll)]
      [DOI](http://dx.doi.org/10.13140/RG.2.2.15007.87206)
      [arXiv:1708.08028](https://arxiv.org/abs/1708.08028)
 127. Supun Kamburugamuve and Geoffrey
-     Fox, "Designing Twister2: Efficient Programming Environment
+     Fox, "[Designing Twister2: Efficient Programming Environment
      Toolkit for Big
      Data](http://www.infomall.org/publications/Twister2.pdf)"
      Digital Science Center, technical report August 6 2017
      [DOI](http://dx.doi.org/10.13140/RG.2.2.18363.31524)
 128. Mark McCombe, Gregor von Laszewski
-     and Geoffrey C. Fox, "Teaching Big Data and Open Source Software
+     and Geoffrey C. Fox, "[Teaching Big Data and Open Source Software
      on Chameleon
      Cloud](http://www.infomall.org/publications/vonLaszewski-i524-chameleon.pdf)",
      Chameleon User[
@@ -900,23 +900,23 @@ Students](#id.30j0zll)]
      September 13-14 2017 in the Theory and Computer Science building at
      the Argonne National Laboratory
 129. Gregor von Laszewski and Geoffrey C.
-     Fox, "Automated Sharded MongoDB Deployment and Benchmarking for
+     Fox, "[Automated Sharded MongoDB Deployment and Benchmarking for
      Big Data
      Analysis](http://www.infomall.org/publications/vonLaszewski-i524-mongodb.pdf)",
      Chameleon User
      [Meeting](https://www.chameleoncloud.org/news/chameleon-user-meeting/),
      September 13-14 2017 in the Theory and Computer Science building at
      the Argonne National Laboratory
-130. L. Chen, J. Qiu. "Development of
+130. L. Chen, J. Qiu. "[Development of
      Harp-DAAL Interface](Interface.pdf)" Technical Report
      (December 2016)
-131. [L. Chen, J. Qiu. "Harp-DAAL: A
+131. [L. Chen, J. Qiu. "[Harp-DAAL: A
      High Performance Data-Intensive Machine Learning
      Framework](Framework.pdf)" Technical Report (March
      2017)]
 132. B. Peng, B. Zhang, L. Chen, M.
      Avram, R. Henschel, C. Stewart, S. Zhu, E. Mccallum, L. Smith, T.
-     Zahniser, J. Omer, J. Qiu. "HarpLDA+: Optimizing Latent
+     Zahniser, J. Omer, J. Qiu. "[HarpLDA+: Optimizing Latent
      Dirichlet Allocation for Parallel
      Efficiency](Efficiency.pdf)" Technical Report (August 2017)
      to be published in IEEE Big Data
@@ -925,7 +925,7 @@ Students](#id.30j0zll)]
 133. A. Jackura, C. Fernandez-Ramirez, M.
      Mikhasenko, A. Pilloni, V. Mathieu, J. Nys, V. Pauk, A. P.
      Szczepaniak, G. Fox, and COMPASS Collaboration(235 total authors),
-     "New analysis of ηπ tensor resonances measured at the COMPASS
+     "[New analysis of ηπ tensor resonances measured at the COMPASS
      experiment](http://www.infomall.org/publications/Eta-pi-Compass-1707.02848.pdf)",
      10 July 2017,[
      CERN-EP-2017-169](https://cds.cern.ch/record/2273895),
@@ -934,21 +934,21 @@ Students](#id.30j0zll)]
      Physics Letters B 779
      [published](https://www.researchgate.net/publication/323471478_New_analysis_of_ep_tensor_resonances_measured_at_the_COMPASS_experiment)]
 134. hengjing he, Wei Zhao, Songling
-     Huang, Geoffrey Fox and Qing Wang, "Research on the Architecture
+     Huang, Geoffrey Fox and Qing Wang, "[Research on the Architecture
      and its Implementation for Instrumentation and Measurement
      Cloud](http://www.infomall.org/publications/He-IEEETSC-InstCloud.pdf)" 
      ]IEEE Transactions on Services Computing, 4
      July 2017,
      [DOI](http://dx.doi.org/10.1109/TSC.2017.2723006):10.1109/TSC.2017.2723006
 135. Supun Kamburugamuve, Karthik
-     Ramasamy, Martin Swany, Geoffrey Fox, "Low Latency Stream
+     Ramasamy, Martin Swany, Geoffrey Fox, "[Low Latency Stream
      Processing: Twitter Heron with Infiniband and
      Omni-Path](http://www.infomall.org/publications/low_latency_heron_infiniband_omnipath.pdf)",
      Proceedings of Strata Data [Conference
      ](https://conferences.oreilly.com/strata/strata-ny/public/schedule/detail/60671)New
      York NY September 26-28, 2017
 136. Mingze Xu, David J. Crandall,
-     Geoffrey C. Fox, John D. Paden, "AUTOMATIC ESTIMATION OF ICE
+     Geoffrey C. Fox, John D. Paden, "[AUTOMATIC ESTIMATION OF ICE
      BOTTOM SURFACES FROM RADAR
      IMAGERY](http://www.infomall.org/publications/xu.pdf)"
      Published in ICIP2017, 2017 IEEE International
@@ -956,7 +956,7 @@ Students](#id.30j0zll)]
      at the China National Convention Center in Beijing, China from
      17-20 September 2017
 137. M. Rahnemoonfar; G. C. Fox; M.
-     Yari; J. Paden, "Automatic Ice Surface and Bottom Boundaries
+     Yari; J. Paden, "[Automatic Ice Surface and Bottom Boundaries
      Estimation in Radar Imagery Based on Level-Set
      Approach](http://www.infomall.org/publications/ice_rev1.pdf),"
      in IEEE Transactions on Geoscience and Remote Sensing , vol.55,
@@ -964,13 +964,13 @@ Students](#id.30j0zll)]
      [DOI](http://dx.doi.org/10.1109/TGRS.2017.2702200):
      10.1109/TGRS.2017.2702200
 138. Geoffrey C. Fox and Shantenu Jha,
-     "A Tale of Two Convergences: Applications and Computing
+     "[A Tale of Two Convergences: Applications and Computing
      Platforms](http://www.infomall.org/publications/tale-of-two-convergences.pdf)",
      Extended abstract for 2017 New York Scientific Data Summit
      ([NYSDS\'17](https://www.bnl.gov/nysds17/index.php))
      Data-Driven Discovery in Science and Industry, August 6-9, 2017
 139. Geoffrey C. Fox, Devarshi Ghoshal,
-     Shantenu Jha, Andre Luckow, Lavanya Ramakrishnan, "Streaming
+     Shantenu Jha, Andre Luckow, Lavanya Ramakrishnan, "[Streaming
      Computational Science: Applications, Technology and Resource
      Management for
      HPC](http://www.infomall.org/publications/streaming-nysds-abstract.pdf)" 
@@ -979,14 +979,14 @@ Students](#id.30j0zll)]
      ([NYSDS\'17](https://www.bnl.gov/nysds17/index.php))
      Data-Driven Discovery in Science and Industry, August 6-9, 2017
 140. [Geoffrey C. Fox, Shantenu Jha,
-     "Conceptualizing A Computing Platform for Science Beyond 2020:
+     "[Conceptualizing A Computing Platform for Science Beyond 2020:
      To Cloudify HPC, or HPCify
      Clouds?](http://www.infomall.org/publications/2017IEEEVisionaryTrackatServicesConferenceFederation_12340.pdf_12340.pdf)",
      Proceedings of IEEE Cloud 2017
      [Conference](http://www.thecloudcomputing.org/2017/index.html)
      June 25-30 2017, Honolulu, Hawaii]
 141. Hyungro Lee and Geoffrey C. Fox,
-     "Efficient Software Defined Systems using Common Core
+     "[Efficient Software Defined Systems using Common Core
      Components](http://www.infomall.org/publications/HyungroSDS-Cloud2017.pdf)",
      Proceedings of IEEE Cloud 2017
      [Conference](http://www.thecloudcomputing.org/2017/index.html)
@@ -994,31 +994,31 @@ Students](#id.30j0zll)]
 142. Langshi Chen, Bo Peng, Bingjing
      Zhang, Tony Liu, Yiming Zou, Lei Jiang, Robert Henschel, Craig
      Stewart, Zhang Zhang, Emily Mccallum, Tom Zahniser, Jon Omer, Judy
-     Qiu, "Benchmarking Harp-DAAL: High Performance Hadoop on KNL
+     Qiu, "[Benchmarking Harp-DAAL: High Performance Hadoop on KNL
      Clusters](http://www.infomall.org/publications/2017CLOUDResearchTrack_12261.pdf)",
      Proceedings of IEEE Cloud 2017
      [Conference](http://www.thecloudcomputing.org/2017/index.html)
      June 25-30 2017, Honolulu, Hawaii
-143. [Hyungro Lee, "Software Defined
+143. [Hyungro Lee, "[Software Defined
      Systems with DevOps Tools and Infrastructure
      Provisioning](http://www.infomall.org/publications/IPDPS_PhD_Forum_2017.pdf)",
      Ph.D.
      [Forum](http://www.ipdps.org/ipdps2017/2017_phd_forum.html)
      at [IPDPS](http://www.ipdps.org/) conference Orlando FL May
      30-June 2, 2017]
-144. [Supun Kamburugamuve, "Designing
+144. [Supun Kamburugamuve, "[Designing
      Efficient Programming Environment Toolkits for Big Data
      Applications: Integrating Parallel and Distributed Computing
      Runtimes](http://www.infomall.org/publications/Supun_Kamburugamuve_thesis_proposal.pdf)",
      Ph.D. Thesis Proposal Indiana University July 6 2017]
-145. [Bingjing Zhang "HARP: A MACHINE
+145. [Bingjing Zhang "[HARP: A MACHINE
      LEARNING FRAMEWORK ON TOP OF THE COLLECTIVE COMMUNICATION LAYER FOR
      THE BIG DATA SOFTWARE
      STACK](http://www.infomall.org/publications/Bingjing_thesis.pdf)",
      Indiana University Ph.D. Thesis May 2017]
 146. V. Mathieu, J. Nys, C.
      Fernández-Ramírez, A. Jackura, M. Mikhasenko, A. Pilloni, A. P.
-     Szczepaniak, G. Fox, "On the η and η' Photoproduction Beam
+     Szczepaniak, G. Fox, "[On the η and η' Photoproduction Beam
      Asymmetry at High
      Energies](http://www.infomall.org/publications/eta-prime-beam.pdf)",
      (Joint Physics Analysis Center) [Arxiv
@@ -1030,18 +1030,18 @@ Students](#id.30j0zll)]
      Blatecky, Rick McMullen, Todd Tannenbaum, Jan Cheetham, Jim
      Wilgenbusch, Karan Bhatia, Erik Deumens, Barr von Oehsen,
      Geoffrey C. Fox, Marcin Ziolkowski, Asbed Bedrossian, Dan Fay,
-     "The Future of Cloud for Academic Research
+     "[The Future of Cloud for Academic Research
      Computing](.pdf)", Results of an NSF-Supported Cloud
      Forward[ 
      ][Workshop](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1632037)
      Washington DC, Westin Hotel, December 7-8 2016
 148. Geoffrey C. Fox and Shantenu Jha,
-     "HPC in a Mist of Cloud Technologies and
+     "[HPC in a Mist of Cloud Technologies and
      Infrastructures](http://www.infomall.org/publications/HPC-ABDSPositionPaper.pdf)",
      Internal Report April 8, 2017
 149. Zhao Zhao, Meng Li, Guanying Wang,
      Ali Butt, Maleq Khan, Madhav Marathe, Judy Qiu, Anil Vullikanti,
-     "Finding and counting subgraphs using
+     "[Finding and counting subgraphs using
      MapReduce](http://www.infomall.org/publications/main4.pdf)",
      April 2017
 150. Bingjing Zhang, Bo Peng, Judy Qiu,
@@ -1049,25 +1049,25 @@ Students](#id.30j0zll)]
      Rotation](Rotation.pdf)", in the book series on Advances in
      Parallel Computing published by IOS Press, 2017.
 151. Fox, Geoffrey; Jha, Shantenu;
-     Ramakrishnan, Lavanya; "STREAM2016: Streaming Requirements,
+     Ramakrishnan, Lavanya; "[STREAM2016: Streaming Requirements,
      Experience, Applications and Middleware
      Workshop](https://doi.org/10.2172/1344785)", Final Report of
      [Workshop](http://streamingsystems.org/stream2016.html)
      March 22-23 2016 at Washington DC, LBNL\--1006355 October 1, 2016
-152. Hyungro Lee, "Building Software
+152. Hyungro Lee, "[Building Software
      Defined Systems on HPC and
      Clouds](http://www.infomall.org/publications/proposalHyungro.pdf)",
      PhD Proposal Indiana University February 19 2017
 153. Geoffrey Fox, David Crandall, Judy
      Qiu, Gregor Von Laszewski, Shantenu Jha, John Paden, Oliver
-     Beckstein, Tom Cheatham, Madhav Marathe, Fusheng Wang, "Tutorial
+     Beckstein, Tom Cheatham, Madhav Marathe, Fusheng Wang, "[Tutorial
      Program](http://www.infomall.org/publications/SPIDALTutorialProgram-Feb2017.pdf)",
      [BigDat 2017](http://grammars.grlmc.com/BigDat2017/) MIDAS
      and SPIDAL [Tutorial](http://www.spidal.org/) Bari Italy
      February 13-14 2017
      [DOI](http://dx.doi.org/10.13140/RG.2.2.13789.82404)
 154. Badi' Abdul-Wahid, Hyungro Lee,
-     Gregor von Laszewski, and Geoffrey Fox, "Scripting Deployment of
+     Gregor von Laszewski, and Geoffrey Fox, "[Scripting Deployment of
      NIST Use
      Cases](http://www.infomall.org/publications/NISTreport.pdf)"
      Technical Report January 20 2017
@@ -1078,17 +1078,17 @@ Students](#id.30j0zll)]
      Proceedings of the Fifth SIAM Conference on Parallel Processing for
      Scientific Computing, Houston, Texas, USA, March 25-27, 1991
      [DOI](http://dx.doi.org/10.13140/RG.2.1.4312.8162)
-156. Geoffrey Fox, "Special Issue on
+156. Geoffrey Fox, "[Special Issue on
      Java Technologies for Real-Time and Embedded Systems
      JTRES2013](http://www.infomall.org/publications/JTRES2013SpecialIssue.pdf)",
      Concurrency and Computation: Practice and Experience, 2017.
 157. Pulasthi Wickramasinghe, Geoffrey
-     Fox, "Similarities and Differences Between Parallel Systems and
+     Fox, "[Similarities and Differences Between Parallel Systems and
      Distributed
      Systems](http://www.infomall.org/publications/parallelsystemsvsdistributedsystems.pdf)",
      Technical Report January 20 2017
 158. Supun Kamburugamuve, Pulasthi
-     Wickramasinghe, Saliya Ekanayake, Geoffrey C. Fox, "Anatomy of
+     Wickramasinghe, Saliya Ekanayake, Geoffrey C. Fox, "[Anatomy of
      machine learning algorithm implementations in MPI, Spark, and
      Flink](http://www.infomall.org/publications/Anatomy_of_machine_learning_algorithm_in_mpi_spark_and_flink.pdf)",
      The International Journal of High Performance Computing
@@ -1104,7 +1104,7 @@ Students](#id.30j0zll)]
 160. Mohanad Al-Ibadi, Jordan Sprick,
      Sravya Athinarapu, Theresa Stumpf, John Paden, Carl Leuschen,
      Fernando Rodríguez, Mingze Xu, David Crandall, Geoffrey Fox, David
-     Burgess, Martin Sharp, Luke Copland, and Wesley Van Wychen, "DEM
+     Burgess, Martin Sharp, Luke Copland, and Wesley Van Wychen, "[DEM
      EXTRACTION OF THE BASAL TOPOGRAPHY OF THE CANADIAN ARCHIPELAGO ICE
      CAPS VIA 2D AUTOMATED
      LAYER-TRACKER](http://www.infomall.org/publications/IGARSS_2017_CAA_DEM.pdf)",
@@ -1112,7 +1112,7 @@ Students](#id.30j0zll)]
      and Remote Sensing [Symposium](http://www.igarss2017.org/),
      July 23--28, 2017, Fort Worth, Texas, USA
 161. Maryam Rahnemoonfar, Amin Abbasi
-     Habashi, John Paden, Geoffrey C. Fox, "AUTOMATIC ICE THICKNESS
+     Habashi, John Paden, Geoffrey C. Fox, "[AUTOMATIC ICE THICKNESS
      ESTIMATION IN RADAR IMAGERY BASED ON CHARGED PARTICLES
      CONCEPT](http://www.infomall.org/publications/ICE-IGARSS%202017-V4.pdf)",
      Technical report January 9 2017,, 2017
@@ -1120,7 +1120,7 @@ Students](#id.30j0zll)]
      Symposium](http://www.igarss2017.org/), July 23--28, 2017,
      Fort Worth, Texas, USA
 162. Supun Kamburugamuve,
-     "Demonstration of Turtlebot controlled in
+     "[Demonstration of Turtlebot controlled in
      cloud](http://www.infomall.org/publications/DSC_0093.mp4)",
      for [CES
      2017](https://en.wikipedia.org/wiki/Consumer_Electronics_Show)
@@ -1128,12 +1128,12 @@ Students](#id.30j0zll)]
 163. J. Nys, V. Mathieu, C.
      Fernández-Ramírez, A. N. Hiller Blin, A. Jackura, M. Mikhasenko, A.
      Pilloni, A. P. Szczepaniak, G. Fox, J. Ryckebusch,
-     "Finite-Energy Sum Rules in Eta Photoproduction off the
+     "[Finite-Energy Sum Rules in Eta Photoproduction off the
      Nucleon](http://www.infomall.org/publications/1611.04658v1.pdf)",
      arXiv [link](https://arxiv.org/abs/1611.04658). Phys. Rev. D
      95, 034014 -- Published 15 February 2017
 164. Ahmet Sayar, Marlon Pierce,
-     Geoffrey C. Fox, "An adaptive range-query optimization technique
+     Geoffrey C. Fox, "[An adaptive range-query optimization technique
      with distributed
      replicas](http://www.infomall.org/publications/art%3A10.1007%2Fs11771-014-1930-7.pdf)",
      Central South University Press and Springer, Journal of Central
@@ -1145,7 +1145,7 @@ Students](#id.30j0zll)]
      Gonçalves B, Grabowicz PA, Hong K, Hui P, McCaulay S, McKelvey K,
      Meiss MR, Patil S, Peli Kankanamalage C, Pentchev V, Qiu J,
      Ratkiewicz J, Rudnick A, Serrette B, Shiralkar P, Varol O, Weng L,
-     Wu T, Younge AJ, Menczer F.(2016) "OSoMe: the IUNI observatory on
+     Wu T, Younge AJ, Menczer F.(2016) "[OSoMe: the IUNI observatory on
      social
      media](http://www.infomall.org/publications/peerj-cs-87.pdf)".
      *PeerJ Computer Science* 2:e87
@@ -1154,13 +1154,13 @@ Students](#id.30j0zll)]
 166. Indiana University (Fox, Qiu,
      Crandall, von Laszewski, Rutgers (Jha), Virginia Tech (Marathe),
      Kansas (Paden), Stony Brook (Wang), Arizona State (Beckstein), Utah
-     (Cheatham) "Datanet: CIF21 DIBBs: Middleware and High Performance
+     (Cheatham) "[Datanet: CIF21 DIBBs: Middleware and High Performance
      Analytics Libraries for Scalable Data Science NSF14-43054 Progress
      Report](http://www.infomall.org/publications/SPIDAL-DIBBSreport_July2016.pdf)"
      July 2016 21 month Project Report
 167. Saliya Ekanayake, Supun
      Kamburugamuve, Pulasthi Wickramasinghe, Geoffrey Charles Fox,
-     "Java Thread and Process Performance for Parallel Machine
+     "[Java Thread and Process Performance for Parallel Machine
      Learning on Multicore HPC
      Clusters](http://www.infomall.org/publications/ieee.bigdata.2016-v9.pdf)",
      Technical Report August 8 2016,
@@ -1171,20 +1171,20 @@ Students](#id.30j0zll)]
      this
      [version](http://www.infomall.org/publications/ieee.bigdata.2016_short-v1-ieeecompatible.pdf).
 168. James Fox, Yiming Zou, Judy Qiu, 
-     "Software Frameworks for Deep Learning
+     "[Software Frameworks for Deep Learning
      at
      Scale](http://www.infomall.org/publications/DLFrameworks.pdf)"
-     with summary "RaPyDLI Deep Learning
+     with summary "[RaPyDLI Deep Learning
      Framework](http://www.infomall.org/publications/RaPyDLIReport2016Summary.pdf)"
      Internal Indiana University Technical Report July 29 2016
-169. [Dennis Gannon, "A Quick Dive
+169. [Dennis Gannon, "[A Quick Dive
      into Cloud Data Streaming
      Technology](http://www.infomall.org/publications/streaming2.pdf)",
      paper adapted from the blog at
      [www.esciencegroup.com](http://www.esciencegroup.com) May
      24 2016]
 170. Geoffrey Fox, Judy Qiu, Shantenu
-     Jha, Saliya Ekanayake, Supun Kamburugamuve, "White Paper: Big
+     Jha, Saliya Ekanayake, Supun Kamburugamuve, "[White Paper: Big
      Data, Simulations and HPC
      Convergence](http://www.infomall.org/publications/HPCBigDataConvergence.Summary_IURutgers.pdf)",
      Technical Report May 20 2016
@@ -1194,7 +1194,7 @@ Students](#id.30j0zll)]
      June 16 2016
 171. Supun Kamburugamuve, Pulasthi
      Wickramasinghe, Saliya Ekanayake, Chathuri Wimalasena, Milinda
-     Pathirage, Geoffrey Fox, "TSmap3D: Browser Visualization of High
+     Pathirage, Geoffrey Fox, "[TSmap3D: Browser Visualization of High
      Dimensional Time Series
      Data](http://www.infomall.org/publications/tsmap3d.pdf)",
      Technical report May 10 2016. Published in [Advances in High
@@ -1215,25 +1215,25 @@ Students](#id.30j0zll)]
      Miami July 17-21, 2016. ACM Digital Library DOI
      [10.1145/2949550.2949555](http://dx.doi.org/10.1145/2949550.2949555)
 173. Maryam Rahnemoonfar, Masoud Yari,
-     Geoffrey C. Fox, "Automatic polar ice thickness estimation from
+     Geoffrey C. Fox, "[Automatic polar ice thickness estimation from
      SAR
      images](http://www.infomall.org/publications/Full%20paper-Radar-ICE-v4.pdf)",
      SPIE Defense + Security
      [Conference](http://www.spie.org/conferences-and-exhibitions/defense--commercial-sensing/defense--security)
      Baltimore Convention Center April 18 2016
 174. Hengjing He, Wei Zhao, Songling
-     Huang, Geoffrey C. Fox, "Research on the Architecture and its
+     Huang, Geoffrey C. Fox, "[Research on the Architecture and its
      implementation for Instrumentation and Measurement Cloud",
      Technical Report February 2016
 175. Bingjing Zhang, Peng Bo, Judy Qiu,
-     "Model Data-Centric Computation Abstractions in Machine Learning
+     "[Model Data-Centric Computation Abstractions in Machine Learning
      Applications](http://ipcc.soic.iu.edu/Computation%20Abstractions.pdf)",
      in 3rd Workshop on Algorithms and Systems for MapReduce and Beyond
      ([BeyondMR2016](https://sites.google.com/site/beyondmr2016/)),
      held in conjunction with
      [SIGMOD/PODS2016](http://sigmod2016.org/), July 1, 2016
 176. Bingjing Zhang, Bo Peng, Judy Qiu,
-     "High Performance LDA through Collective Model Communication
+     "[High Performance LDA through Collective Model Communication
      Optimization](http://ipcc.soic.iu.edu/Harp-LDA.pdf)",
      Proceedings of International Conference on Computational Science
      ([ICCS2016](http://www.iccs-meeting.org/)) conference, June
@@ -1247,19 +1247,19 @@ Students](#id.30j0zll)]
      Conference, April 4-8, 2016, Berlin,
      Germany.
 178. Sangyoon Oh, Mehmet Aktas, Marlon
-     Pierce, Geoffrey Fox, "Architecture for high-performance web
+     Pierce, Geoffrey Fox, "[Architecture for high-performance web
      service communications using an information
      service](https://www.researchgate.net/publication/295405799_Architecture_for_high-performance_web_service_communications_using_an_information_service?)",
      WSEAS Transactions on Computers, Issue 7 Vol. 5, July 2006.
 179. Hyungro Lee, Min Su Lee, Wazim
      Mohammed Ismail, Mina Roh, Sangyoon Oh, Geoffrey C. Fox, Haixu
-     Tang, "MGEScan: a Galaxy based system for identifying
+     Tang, "[MGEScan: a Galaxy based system for identifying
      retrotransposons in genomes", Published[ 
      ]in Bioinformatics (2016) 32 (16):
      2502-2504, Oxford Journal 2016
      [DOI](http://doi.org/10.1093/bioinformatics/btw157)
 180. Geoffrey Fox, Judy Qiu, Shantenu
-     Jha, Saliya Ekanayake, and Supun Kamburugamuve, "Big Data,
+     Jha, Saliya Ekanayake, and Supun Kamburugamuve, "[Big Data,
      Simulations and HPC
      Convergence](http://www.infomall.org/publications/HPCBigDataConvergence.pdf)"
      Technical Report January 30 2016. [DOI:
@@ -1269,7 +1269,7 @@ Students](#id.30j0zll)]
      Computer Science [LNCS 10044
      [DOI](http://dx.doi.org/10.1007%2F978-3-319-49748-8_1)]
 181. Supun Kamburugamuve, Saliya
-     Ekanayake, Milinda Pathirage, Geoffrey Fox, "Towards High
+     Ekanayake, Milinda Pathirage, Geoffrey Fox, "[Towards High
      Performance Processing of Streaming Data in Large Data
      Centers](http://www.infomall.org/publications/high_performance_processing_stream.pdf)"
      Technical Report January 26 2016. Published in proceedings of HPBDC
@@ -1280,7 +1280,7 @@ Students](#id.30j0zll)]
      [Symposium](http://www.ipdps.org/) (IPDPS 2016), Chicago
      Hyatt Regency, Chicago, Illinois USA, Friday, May 27th, 2016
 182. Andrew J. Younge, Christopher
-     Reidy, Robert Henschel, Geoffrey C. Fox, "Evaluation of SMP
+     Reidy, Robert Henschel, Geoffrey C. Fox, "[Evaluation of SMP
      Shared Memory Machines for Use With In-Memory and OpenMP Big Data
      Applications](http://www.infomall.org/publications/15-scalemp.pdf)",
      Technical Report January 23 2016. Published in proceedings of HPBDC
@@ -1293,7 +1293,7 @@ Students](#id.30j0zll)]
      IEEE International Parallel and Distributed Processing Symposium
      Workshops (IPDPSW), May 2016, pp. 1597-1606.
 183. Ahmet F. Mustacoglu, Ahmet E.
-     Topcu, Ferhat O. Catak, Geoffrey C. Fox, "Cloud-enabled Digital
+     Topcu, Ferhat O. Catak, Geoffrey C. Fox, "[Cloud-enabled Digital
      Information Service
      Framework](http://www.infomall.org/publications/AhmetFatihMustacoglu_submission.pdf)",
      Technical Report January 20 2016
@@ -1302,7 +1302,7 @@ Students](#id.30j0zll)]
      Processing"](http://www.infomall.org/publications/survey_distributed_stream_frameworks.pdf),
      Technical Report January 8 2016
 185. Saliya Ekanayake, Supun
-     Kamburugamuve and Geoffrey Fox, "SPIDAL: High Performance Data
+     Kamburugamuve and Geoffrey Fox, "[SPIDAL: High Performance Data
      Analytics with Java and MPI on Large Multicore HPC
      Clusters](http://www.infomall.org/publications/hpc2016-spidal-high-performance-submit-22-CR.pdf)",
      Technical Report January 5 2016; Proceedings of 24th High
@@ -1312,7 +1312,7 @@ Students](#id.30j0zll)]
      Multi-Conference
      ([SpringSim\'16](http://www.scs.org/springsim/))
 186. DELSA Global (18 authors including
-     Geoffrey Fox and led by Eugene Kolker), "In praise of open
+     Geoffrey Fox and led by Eugene Kolker), "[In praise of open
      research
      measures](http://www.nature.com/nature/journal/v498/n7453/full/498170b.html)"
      Nature, 06/13/print, 2013. 498(7453): p. 170-170.
@@ -1320,7 +1320,7 @@ Students](#id.30j0zll)]
      [ResearchGate](https://www.researchgate.net/publication/292610854_In_praise_of_open_research_measures),
      December 2012
 187. Jangwon Lee, Jingya Wang, David
-     Crandall, Selma Sabanovic and Geoffrey Fox, "Real-Time Object
+     Crandall, Selma Sabanovic and Geoffrey Fox, "[Real-Time Object
      Detection for Unmanned Aerial Vehicles based on Cloud-based
      Convolutional Neural
      Networks](http://www.infomall.org/publications/root.pdf)",
@@ -1348,7 +1348,7 @@ Students](#id.30j0zll)]
      [Homepage](http://spidal-gw.www.infomall.org/)
 191. Geoffrey L. House, Saliya
      Ekanayake, Yang Ruan, Ursel Schütte, Wittaya Kaonongbua, Geoffrey
-     Fox, Yuzhen Ye, James D. Bever, "Phylogenetically structured
+     Fox, Yuzhen Ye, James D. Bever, "[Phylogenetically structured
      differences in rRNA gene sequence variation among species of
      arbuscular mycorrhizal fungi and their implications for sequence
      clustering](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4968537/pdf/zam4921.pdf)",
@@ -1356,7 +1356,7 @@ Students](#id.30j0zll)]
      Microbiology, June 3 2016.[
      DOI](http://doi.org/10.1128/AEM.00816-16).
 192. Geoffrey Fox, Shantenu Jha,[ 
-     ]Lavanya Ramakrishnan, "STREAM2015 Final
+     ]Lavanya Ramakrishnan, "[STREAM2015 Final
      Report](http://www.infomall.org/publications/STREAM2015WorkshopReport.pdf)"
      of [Workshop](http://streamingsystems.org/stream2015.html)
      Indianapolis October 27-28, 2015.
@@ -1384,11 +1384,11 @@ Students](#id.30j0zll)]
      Approach](http://www.infomall.org/publications/levelset-ice-paper-version-6.pdf),
      Technical report September 17 2015]
 196. Ahmet F. Mustacoglu, Geoffrey C.
-     Fox, "A novel digital information service for federating
+     Fox, "[A novel digital information service for federating
      distributed digital entities", Information Systems, Volume 55,
      January 2016, Pages 20--36
 197. Jahanzeb Maqbool, Sangyoon Oh,
-     Geoffrey C. Fox, "Evaluating ARM HPC clusters for scientific
+     Geoffrey C. Fox, "[Evaluating ARM HPC clusters for scientific
      workloads", [DOI](http://doi.org/10.1002/cpe.3602)[ 
      ]Concurrency and Computation: Practice and
      Experience Volume 27, Issue 17, 10 December 2015, Pages 5390--5410
@@ -1398,7 +1398,7 @@ Students](#id.30j0zll)]
      Technologies](http://www.infomall.org/publications/KaleidoscopeTable6.docx),
      Technical report August 22 2015
 199. Supun Kamburugamuve, Hengjing He,
-     Geoffrey Fox, and David Crandall, "Cloud-based Parallel
+     Geoffrey Fox, and David Crandall, "[Cloud-based Parallel
      Implementation of SLAM for Mobile
      Robots](http://www.infomall.org/publications/SLAM_In_the_cloud.pdf)".
      Technical report July 18 2015.Published in[ 
@@ -2000,7 +2000,7 @@ Students](#id.30j0zll)]
      2013, November 17 2013 at
      [SC13](http://sc13.supercomputing.org/)
 294. E. Kolker and others including
-     Geoffrey Fox, "Towards more transparent and reproducible omics
+     Geoffrey Fox, "[Towards more transparent and reproducible omics
      studies through a common metadata checklist and data
      publications", Big Data journal to be published, December 2013
 295. Thilina Gunarathne, Judy Qiu and
@@ -2199,7 +2199,7 @@ Students](#id.30j0zll)]
      May 15 2013 paper at [IGARSS
      2013](http://www.igarss2013.org/) Sunday 21 - Friday 26 July
      2013 IEEE International Geoscience and Remote Sensing Symposium
-     Melbourne, Australia "Building a Sustainable Earth through Remote
+     Melbourne, Australia "[Building a Sustainable Earth through Remote
      Sensing"
 328. Jerome E. Mitchell, David J.
      Crandall, Geoffrey C. Fox, and John D. Paden [A Survey of
@@ -2301,7 +2301,7 @@ Students](#id.30j0zll)]
      USA), Tony Hey (Microsoft Research, USA) and Anne Trefethen (Oxford
      University, UK) [Where does all the data come
      from?](http://www.infomall.org/publications/Where%20does%20all%20the%20data%20come%20from%20v7.pdf)
-     Book Chapter in "Data Intensive Science" edited by Terence
+     Book Chapter in "[Data Intensive Science" edited by Terence
      Critchlow and Kerstin Kleese Van Dam, June 3, 2013 by Chapman and
      Hall/CRC.
 342. Yuduo Zhou [Large Scale Distributed
@@ -2330,14 +2330,14 @@ Students](#id.30j0zll)]
      January 13 2013 Abstract at [IGARSS
      2013](http://www.igarss2013.org/) Sunday 21 - Friday 26 July
      2013 IEEE International Geoscience and Remote Sensing Symposium
-     Melbourne, Australia "Building a Sustainable Earth through Remote
+     Melbourne, Australia "[Building a Sustainable Earth through Remote
      Sensing"
 348. Geoffrey Fox and Dennis Gannon
      [Using Clouds for Technical
      Computing](http://www.infomall.org/publications/Clouds_Technical_Computing_FoxGannonv2.pdf)
      in Proceedings of HPC 2012
      [Conference](http://www.hpcc.unical.it/hpc2012) at Cetraro,
-     Italy June 28 2012. Chapter in "Cloud Computing and Big Data", C.
+     Italy June 28 2012. Chapter in "[Cloud Computing and Big Data", C.
      Catlett, W. Gentzsch, L. Grandinetti, G.R. Joubert, and J.L.
      Vazquez-Poletti, Editors. 2013, IOS Press: Cetraro, Italy.
 349. Judy Qiu and Bingjing Zhang
@@ -2616,7 +2616,7 @@ Students](#id.30j0zll)]
      Figueiredo, Shava Smallen, Warren Smith, and Andrew Grimshaw
      [FutureGrid - a reconfigurable testbed for Cloud, HPC and Grid
      Computing](http://www.infomall.org/publications/sitka-chapter.pdf)
-     Chapter in "Contemporary High Performance Computing: From
+     Chapter in "[Contemporary High Performance Computing: From
      Petascale toward Exascale", editor Jeff Vetter, April 23, 2013 by
      Chapman and Hall/CRC
 390. Thilina Gunarathne, Bingjing Zhang,
@@ -4025,7 +4025,7 @@ Students](#id.30j0zll)]
      2010](http://www.iccs-meeting.org/)), May 31 - Jun 2, 2010.
      Amsterdam, The Netherlands.
 570. Richard A. Aló, Diane Baxter, Karl
-     Barnes, Al Kuslikis ,Geoffrey Fox, Alex Ramirez "Advancing
+     Barnes, Al Kuslikis ,Geoffrey Fox, Alex Ramirez "[Advancing
      Computational Science, Visualization and Homeland Security
      Research/ Education at Minority Serving Institutions National Model
      Promoted/ Implemented by MSI-CIEC (Minority Serving
@@ -4078,11 +4078,11 @@ Students](#id.30j0zll)]
      Demand](http://www.infomall.org/publications/AdvancingSoftwarepaper.pdf)
      Advances in Engineering Software. 41(2): 213-219, 2010
 577. Lizhe Wang, Gregor von Laszewski,
-     Jie Tao and Marcel Kunze. "Virtual Data System on Distributed
+     Jie Tao and Marcel Kunze. "[Virtual Data System on Distributed
      Virtual Machines in Computational Grids". Accepted by
      International Journal of Ad Hoc and Ubiquitous Computing (IJAHUC).
 578. Gregor von Laszewski, Jay Dayal,
-     Lizhe Wang. "eMolst -- a documentation flow for distributed health
+     Lizhe Wang. "[eMolst -- a documentation flow for distributed health
      informatics", accepted by Concurrency and Computation: Practice
      and Experience, Wiley InterScience.
 579. Lizhe Wang, Gregor von Laszewski,
@@ -4119,7 +4119,7 @@ Students](#id.30j0zll)]
      Practice&Experience Volume 22, Issue 3, pages 233--240, 10 March
      2010 [DOI](http://dx.doi.org/10.1002/cpe.1558)
 584. Wang, L., G. von Laszewski, and J.
-     Dayal "Thermal aware workload scheduling with backfilling for
+     Dayal "[Thermal aware workload scheduling with backfilling for
      green data centers." 28th IEEE International Performance Computing
      and Communications [Conference](http://www.ipccc.org/)
      (IPCCC'09) December 12-14 2009 Phoenix, Arizona, USA
@@ -4228,7 +4228,7 @@ Students](#id.30j0zll)]
      Keynote talk at The 1st International
      [Conference](http://2009.cloudcom.org/) on Cloud Computing
      (CloudCom 2009) at Beijing Jiaotong University, China December 1-4,
-     2009, Springer Verlag LNC 5931 "Cloud Computing" Martin Jaatun,
+     2009, Springer Verlag LNC 5931 "[Cloud Computing" Martin Jaatun,
      Gansen Zhao, Chunming Rong (Eds), pp 2-18 (2009)
 597. Marlon E. Pierce, Geoffrey C. Fox,
      Yu Ma, Jun Wang,[Whither Spatial
@@ -4560,7 +4560,7 @@ Students](#id.30j0zll)]
      [SQMD: Architecture for Scalable, Distributed Database System
      built on Virtual Private
      Servers](http://www.infomall.org/publications/SQMD2.pdf)
-     Proceedings of "eScience for Cheminformatics and Drug Discovery"
+     Proceedings of "[eScience for Cheminformatics and Drug Discovery"
      workshop at [eScience 2008](http://escience2008.iu.edu) ,
      Indianapolis, IN Dec 12, 2008.
 646. [Yili Gong, Marlon Pierce and
@@ -4723,7 +4723,7 @@ Students](#id.30j0zll)]
      over Integrated Data-views for Decision Making in Geographic
      Information
      Systems](http://www.infomall.org/publications/asayar_bookchapter_SENT_-MEP.pdf))
-     chapter in book " Grid Technology for Maximizing Collaborative
+     chapter in book "[ Grid Technology for Maximizing Collaborative
      Decision Management and Support: Advancing Effective Virtual
      Organizations"]
 669. Jaliya Ekanayake, Shrideep
@@ -4757,7 +4757,7 @@ Students](#id.30j0zll)]
      Frystyk Nielsen [Performance of Multicore Systems on Parallel Data
      Clustering with Deterministic
      Annealing](http://www.infomall.org/publications/0588FOXiccs2008_final2.pdf)
-     ICCS 2008: "Advancing Science through Computation"
+     ICCS 2008: "[Advancing Science through Computation"
      [Conference](http://www.iccs-meeting.org/); ACC CYFRONET and
      Institute of Computer Science AGH University of Science and
      Technology Kraków, POLAND; June 23-25, 2008. Springer Lecture Notes
@@ -5057,9 +5057,9 @@ Students](#id.30j0zll)]
 718. Marlon E. Pierce, Geoffrey Fox,
      Huapeng Yuan, and Yu Deng [Cyberinfrastructure and Web
      2.0](http://www.infomall.org/publications/Web20ChapterFinal.pdf)
-     "High Performance Computing and Grids in Action" (L. Grandinetti
+     "[High Performance Computing and Grids in Action" (L. Grandinetti
      Editor) published by IOS Press, Amsterdam, as the volume no 16 in
-     the series "Advances in Parallel Computing"., Proceedings of
+     the series "[Advances in Parallel Computing"., Proceedings of
      [HPC2006](http://www.hpcc.unical.it/hpc2006/announcement.htm)
      July 4 2006 Cetraro Italy
 719. Xiaohong Qiu [Multi-Paradigm Run
@@ -5448,7 +5448,7 @@ Students](#id.30j0zll)]
      Geoffrey Fox [Service-Oriented Architecture for Building a
      Scalable Videoconferencing
      System](http://www.infomall.org/publications/soa-for-vc-final.pdf)
-     March 25 2006 to appear in book "Service-Oriented Architecture -
+     March 25 2006 to appear in book "[Service-Oriented Architecture -
      Concepts & Cases" published by Institute of Chartered Financial
      Analysts of India (ICFAI) University
 771. [Geoffrey Fox [Grid-based
@@ -5889,7 +5889,7 @@ Students](#id.30j0zll)]
      Applications to Geographical Information
      Systems](http://www.infomall.org/publications/hpc2004cetraro-iu.pdf)
      Chapter in book based on ON HIGH PERFORMANCE COMPUTING TECHNOLOGY
-     AND APPLICATIONS Cetraro Italy May 31-June 3 2004. "Grid
+     AND APPLICATIONS Cetraro Italy May 31-June 3 2004. "[Grid
      Computing: A New Frontier of High Performance
      Computing](http://www.elsevier.com/wps/find/bookdescription.cws_home/706816/description)"
      (ed. L. Grandinetti, Elsevier, Amsterdam, 2005 ) pages 305-331
@@ -5906,7 +5906,7 @@ Students](#id.30j0zll)]
      Technical report June 2005
 829. Lisa B. Grant, Andrea Donnellan,
      Dennis McLeod, Marlon Pierce, Geoffrey C. Fox, Anne Yun-An Chen,
-     Miryha M. Gould, Sang-Soo Sung, Paul Rundle, "A Web-Service
+     Miryha M. Gould, Sang-Soo Sung, Paul Rundle, "[A Web-Service
      Based Universal Approach to Heterogeneous Fault
      Databases](http://portal.acm.org/citation.cfm?id=1079830.1079888)",
      Computing in Science and Engg., Vol. 7, No. 4. (July 2005), pp.
@@ -6117,7 +6117,7 @@ Students](#id.30j0zll)]
      Geoffrey Fox [Adapting H.323 Terminals in a Service-Oriented
      Collaboration
      System](http://www.infomall.org/publications/H323GW-IC0.pdf)
-     Special "Internet Media" issue of IEEE Internet Computing
+     Special "[Internet Media" issue of IEEE Internet Computing
      July-August 2005, Vol 9 number 4 pages 43-50
      [DOI](http://dx.doi.org/10.1109/MIC.2005.71)
 858. Hongbin Liu, Shrideep Pallickara,
@@ -6165,13 +6165,13 @@ Students](#id.30j0zll)]
 863. Wenjun Wu, Ahmet Uyar, Hasan Bulut,
      Sangyoon Oh, Geoffrey Fox [Grid Service Architecture for
      Videoconferencing](http://www.infomall.org/publications/gcm-draft.pdf)
-     to appear as chapter in book "Grid Computational Methods" Edited
+     to appear as chapter in book "[Grid Computational Methods" Edited
      by M.P. Bekakos, G.A. Gravvanis and H.R. Arabnia
 864. Geoffrey Fox, Shrideep Pallickara,
      and Marlon Pierce [Building a Grid of Grids: Messaging Substrates
      and Information
      Management](http://www.infomall.org/publications/GridOfGrids.pdf)
-     to appear as chapter in book "Grid Technologies: Emerging from
+     to appear as chapter in book "[Grid Technologies: Emerging from
      Distributed Architectures to Virtual Organizations" Editors: M.P.
      Bekakos, G.A. Gravvanis and H.R. Arabnia.
 865. Ahmet Uyar, Wenjun Wu, Hasan Bulut,
@@ -6967,7 +6967,7 @@ Students](#id.30j0zll)]
      Geoffrey Fox, Sang Boem Lim on Benchmarking HPJava: Prospects for
      Performance is
      [here](http://www.infomall.org/publications/HPJavafeb02.pdf):
-     submitted to Sixth Workshop on "Languages, Compilers, and Run-time
+     submitted to Sixth Workshop on "[Languages, Compilers, and Run-time
      Systems for Scalable Computers" (LCR 02)
 985. Geoffrey Fox, XML and the Importance
      of being an Object?, for [CISE
@@ -7068,7 +7068,7 @@ Students](#id.30j0zll)]
       [paper](http://www.infomall.org/publications/gempapermarch00.pdf)
       on Introducing a New Paradigm for Computational Earth Science - A
       web-object-based approach to Earthquake Simulations, a chapter in
-      AGU monograph on "GeoComplexity and the Physics of Earthquakes"
+      AGU monograph on "[GeoComplexity and the Physics of Earthquakes"
       edited by John Rundle, Donald Turcotte and William Klein and
       published by AGU in 2000, pp 219-245
 1004. Geoffrey Fox, Introduction to Web
@@ -7451,11 +7451,11 @@ Students](#id.30j0zll)]
 1037. **Theses by Community Grids Laboratory and Digital Science Center
       Students**
 
--   Pulasthi Supun Wickramasinghe "ROLE
+-   Pulasthi Supun Wickramasinghe "[ROLE
     OF HIGH-PERFORMANCE COMPUTING IN DEEP
     LEARNING](http://www.infomall.org/publications/Role_of_High_Performance_Computing_in_Deep_Learning_Thesis_final_v2.pdf)"
     Indiana University Ph.D. Thesis Dissertation Defense, June 3, 2021
--   Vibhatha Lakmal Abeykoon, "TOWARDS
+-   Vibhatha Lakmal Abeykoon, "[TOWARDS
     DATA ANALYTICS-AWARE HIGH PERFORMANCE DATA ENGINEERING AND
     BENCHMARKING](http://www.infomall.org/publications/vibhatha_thesis_revised.pdf)",
     Indiana University Ph.D. Thesis Dissertation Defense, June 2, 2021
@@ -7463,21 +7463,21 @@ Students](#id.30j0zll)]
     SYSTEMS WITH REPRODUCIBLE
     ENVIRONMENTS](http://www.infomall.org/publications/Dissertation_HyungroLee.pdf),
     Indiana University Ph.D Dissertation Defense, May 31 2019
--   [Jerome E. Mitchell, "A PROGRESSIVE
+-   [Jerome E. Mitchell, "[A PROGRESSIVE
     STUDY FOR THE AUTOMATIC ANALYSIS OF INTERNAL LAYERS FROM POLAR RADAR
     IMAGERY](http://www.infomall.org/publications/mitchell_dissertation.pdf)"
     Indiana University Ph.D Dissertation Defense, July 26 2018]
--   Supun Kamburugamuve, "TOWARDS HPC AND
+-   Supun Kamburugamuve, "[TOWARDS HPC AND
     BIG DATA CONVERGENCE IN A COMPONENT BASED
     APPROACH](http://www.infomall.org/publications/supun_dissertation.pdf)", Indiana University Ph.D Dissertation
     Defense, May 14th, 2018.
--   [Andrew J. Younge, "Architectural
+-   [Andrew J. Younge, "[Architectural
     Principles and Experimentation of Distributed High Performance
     Virtual
     Clusters](http://www.infomall.org/publications/Younge_phd-thesis.pdf)",
     Indiana University Ph.D Dissertation Defense, October 10th,
     2016]
--   Saliya Ekanayake, "Towards a
+-   Saliya Ekanayake, "[Towards a
     Systematic Study of Big Data Performance and
     Benchmarking](http://www.infomall.org/publications/SaliyaEkanayake_Dissertation.pdf)",
     Indiana University Ph.D Dissertation Defense, September 28th, 2016
