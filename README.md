@@ -19,7 +19,7 @@ Students](#id.30j0zll)]
     Richard H. Otten, Reilly Markowitz, Sunny Gandh, Adam Chai,
     Geoffrey C. Fox, Wo L. Chang (2021). "[Using GAS for Speedy
     Generation of HybridMulti-Cloud Auto Generated AI
-    Services](http://www.infomall.org/publications/COMPSAC-GAS-openapi.pdf)"[.
+    Services](http://www.infomall.org/publications/COMPSAC-GAS-openapi.pdf)",
     IEEE COMPSAC 2021: Intelligent and Resilient Computing for a
     Collaborative World 45th Anniversary
     [Conference](https://ieeecompsac.computer.org/2021/).
